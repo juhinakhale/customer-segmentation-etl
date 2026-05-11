@@ -1,0 +1,747 @@
+Transaction_ID,Customer_ID,Transaction_Date,Amount,Category,Channel,Status,City,Customer_Tier,Total_Spend,Transaction_Frequency,Segment
+TXN00001,C0115,2023-04-01,42843.8,Entertainment,In-Store,Completed,Bangalore,Gold,143465.46,5,High-Value
+TXN00002,C0143,2024-07-16,108.47,Groceries,Mobile App,Failed,Bangalore,Bronze,101240.51,4,High-Value
+TXN00003,C0094,2023-02-25,40847.78,Entertainment,In-Store,Completed,Bangalore,Gold,86431.54,3,Mid-Value
+TXN00004,C0025,2024-11-05,11165.18,Shopping,In-Store,Pending,Mumbai,Gold,108905.59,6,High-Value
+TXN00005,C0043,2024-05-19,7108.41,Utilities,Online,Completed,Pune,Platinum,70663.96,4,Mid-Value
+TXN00006,C0049,2023-12-13,5477.51,Utilities,Online,Failed,Bangalore,Platinum,129386.22,7,High-Value
+TXN00007,C0169,2024-08-26,47813.9,Travel,In-Store,Completed,Chennai,Platinum,192056.03,5,High-Value
+TXN00008,C0131,2023-07-01,34621.7,Travel,Mobile App,Pending,Delhi,Platinum,94160.44,3,Mid-Value
+TXN00009,C0108,2024-09-15,45803.92,Dining,In-Store,Completed,Pune,Platinum,209351.72,7,High-Value
+TXN00010,C0155,2024-12-17,44333.2,Healthcare,Mobile App,Completed,Pune,Silver,60748.3,2,Mid-Value
+TXN00011,C0054,2024-10-01,35747.79,Shopping,Mobile App,Completed,Chennai,Bronze,193655.03,9,High-Value
+TXN00012,C0182,2023-04-29,38062.67,Entertainment,Mobile App,Completed,Chennai,Bronze,78457.69,4,Mid-Value
+TXN00013,C0109,2023-01-14,26184.23,Electronics,In-Store,Completed,Pune,Bronze,91217.91,3,Mid-Value
+TXN00014,C0175,2023-09-14,7406.78,Electronics,Mobile App,Completed,Bangalore,Gold,67415.61,4,Mid-Value
+TXN00015,C0158,2024-11-22,37000.67,Dining,Mobile App,Completed,Delhi,Gold,111857.56,6,High-Value
+TXN00016,C0098,2024-02-01,20886.66,Shopping,Mobile App,Completed,Bangalore,Silver,86706.69,4,Mid-Value
+TXN00017,C0163,2024-12-22,35506.32,Shopping,Mobile App,Completed,Delhi,Platinum,279289.67,8,High-Value
+TXN00018,C0046,2024-11-30,3816.0,Travel,Mobile App,Completed,Pune,Silver,195325.3,9,High-Value
+TXN00020,C0126,2024-08-09,27552.99,Groceries,Mobile App,Completed,Chennai,Silver,39297.8,3,Mid-Value
+TXN00021,C0107,2024-07-10,26898.09,Groceries,In-Store,Completed,Pune,Platinum,160080.84,7,High-Value
+TXN00022,C0144,2024-10-26,539.3,Shopping,In-Store,Completed,Mumbai,Bronze,35541.85,5,Mid-Value
+TXN00023,C0098,2023-04-27,19355.21,Healthcare,Online,Pending,Bangalore,Platinum,86706.69,4,Mid-Value
+TXN00024,C0012,2023-10-31,44924.25,Dining,In-Store,Completed,Chennai,Gold,132996.92,4,High-Value
+TXN00025,C0161,2023-03-09,10618.0,Dining,Mobile App,Completed,Bangalore,Gold,116725.9,4,High-Value
+TXN00026,C0192,2024-12-03,7772.35,Entertainment,Mobile App,Completed,Chennai,Gold,89991.39,4,Mid-Value
+TXN00027,C0148,2023-08-22,45558.23,Utilities,In-Store,Completed,Mumbai,Gold,162819.51,5,High-Value
+TXN00028,C0165,2024-09-25,3255.56,Electronics,Mobile App,Pending,Delhi,Gold,84859.28,3,Mid-Value
+TXN00029,C0073,2024-03-24,19132.54,Electronics,In-Store,Completed,Chennai,Bronze,272644.62,8,High-Value
+TXN00031,C0138,2024-07-14,47354.27,Healthcare,Online,Completed,Chennai,Silver,47354.27,1,Mid-Value
+TXN00032,C0042,2023-07-08,11117.32,Healthcare,Online,Completed,Chennai,Platinum,99257.21,6,Mid-Value
+TXN00033,C0166,2024-07-16,3749.91,Groceries,In-Store,Completed,Pune,Silver,107327.05,5,High-Value
+TXN00034,C0026,2023-10-19,31013.84,Dining,In-Store,Completed,Pune,Bronze,31013.84,1,Mid-Value
+TXN00035,C0081,2024-03-14,8515.11,Shopping,Online,Completed,Delhi,Silver,51867.07,2,Mid-Value
+TXN00036,C0174,2023-12-06,43906.5,Entertainment,In-Store,Completed,Chennai,Gold,233634.67,6,High-Value
+TXN00037,C0072,2023-05-24,44575.72,Dining,In-Store,Completed,Chennai,Gold,44575.72,1,Mid-Value
+TXN00038,C0149,2024-08-15,20316.21,Dining,Online,Completed,Pune,Bronze,87336.39,3,Mid-Value
+TXN00039,C0101,2023-08-17,44582.73,Healthcare,Online,Completed,Pune,Silver,161989.14,4,High-Value
+TXN00040,C0194,2024-06-10,7104.5,Travel,Online,Completed,Bangalore,Bronze,176815.68,6,High-Value
+TXN00041,C0011,2023-08-13,38097.47,Dining,Online,Completed,Delhi,Platinum,147078.27,4,High-Value
+TXN00042,C0121,2024-04-10,44089.44,Electronics,Mobile App,Completed,Delhi,Silver,69770.52,2,Mid-Value
+TXN00043,C0097,2024-10-31,18988.07,Groceries,Mobile App,Completed,Delhi,Platinum,152992.92,6,High-Value
+TXN00044,C0124,2024-09-10,429.22,Travel,In-Store,Completed,Pune,Silver,76497.81,4,Mid-Value
+TXN00045,C0093,2024-09-08,35893.41,Groceries,Mobile App,Completed,Bangalore,Platinum,152416.71,6,High-Value
+TXN00046,C0054,2024-08-27,8146.19,Utilities,Online,Completed,Chennai,Gold,193655.03,9,High-Value
+TXN00047,C0147,2023-05-31,2890.01,Healthcare,Online,Completed,Delhi,Gold,36448.47,3,Mid-Value
+TXN00048,C0056,2024-04-04,30365.64,Entertainment,In-Store,Completed,Pune,Bronze,169967.01,6,High-Value
+TXN00049,C0043,2024-12-03,17199.3,Entertainment,Mobile App,Completed,Pune,Platinum,70663.96,4,Mid-Value
+TXN00050,C0039,2024-09-12,4905.3,Entertainment,Mobile App,Completed,Mumbai,Platinum,163435.49,5,High-Value
+TXN00051,C0169,2023-05-14,45109.04,Electronics,Mobile App,Completed,Chennai,Platinum,192056.03,5,High-Value
+TXN00052,C0059,2024-05-08,39498.82,Utilities,In-Store,Completed,Mumbai,Platinum,76897.86,2,Mid-Value
+TXN00053,C0035,2023-09-18,23909.35,Dining,Online,Completed,Mumbai,Gold,145454.06,5,High-Value
+TXN00054,C0134,2023-01-08,18813.99,Dining,Mobile App,Pending,Chennai,Bronze,88017.26,4,Mid-Value
+TXN00055,C0067,2024-07-02,21235.72,Shopping,Mobile App,Completed,Chennai,Platinum,84170.77,3,Mid-Value
+TXN00056,C0046,2024-01-15,27998.78,Entertainment,In-Store,Failed,Pune,Gold,195325.3,9,High-Value
+TXN00057,C0192,2023-08-24,22385.08,Travel,Online,Completed,Mumbai,Silver,89991.39,4,Mid-Value
+TXN00058,C0100,2024-10-13,364.0,Groceries,Online,Completed,Delhi,Gold,24108.96,2,Low-Value
+TXN00059,C0156,2023-02-08,36252.29,Utilities,Mobile App,Completed,Pune,Platinum,126538.09,3,High-Value
+TXN00060,C0113,2023-01-11,10165.19,Healthcare,Online,Completed,Pune,Gold,210225.51,6,High-Value
+TXN00061,C0093,2023-09-02,32785.45,Travel,Online,Failed,Chennai,Silver,152416.71,6,High-Value
+TXN00062,C0133,2023-01-16,36872.58,Groceries,Online,Completed,Delhi,Bronze,49509.42,2,Mid-Value
+TXN00063,C0058,2024-09-12,48156.55,Entertainment,In-Store,Completed,Mumbai,Bronze,180101.79,6,High-Value
+TXN00064,C0088,2023-04-30,40166.82,Healthcare,Mobile App,Pending,Chennai,Platinum,84686.93,3,Mid-Value
+TXN00066,C0163,2023-08-14,33877.96,Dining,In-Store,Completed,Delhi,Silver,279289.67,8,High-Value
+TXN00067,C0074,2023-04-06,20006.64,Shopping,Online,Completed,Chennai,Bronze,57504.26,4,Mid-Value
+TXN00068,C0047,2024-11-30,46519.74,Dining,In-Store,Completed,Pune,Silver,181301.21,5,High-Value
+TXN00069,C0064,2024-09-25,17865.77,Groceries,Online,Failed,Chennai,Gold,133758.13,6,High-Value
+TXN00070,C0124,2024-01-16,31071.31,Entertainment,Mobile App,Pending,Delhi,Platinum,76497.81,4,Mid-Value
+TXN00072,C0031,2024-12-16,25958.44,Shopping,Mobile App,Completed,Delhi,Bronze,184517.61,8,High-Value
+TXN00073,C0048,2024-07-15,13216.17,Healthcare,In-Store,Failed,Bangalore,Bronze,13216.17,1,Low-Value
+TXN00074,C0094,2024-02-15,14053.51,Travel,Mobile App,Completed,Delhi,Silver,86431.54,3,Mid-Value
+TXN00076,C0035,2024-10-07,25898.65,Shopping,In-Store,Completed,Pune,Gold,145454.06,5,High-Value
+TXN00077,C0056,2023-09-18,23879.32,Groceries,In-Store,Completed,Delhi,Bronze,169967.01,6,High-Value
+TXN00078,C0006,2024-02-26,6149.75,Dining,Mobile App,Completed,Delhi,Bronze,124754.65,6,High-Value
+TXN00079,C0173,2024-06-06,24425.94,Entertainment,Online,Completed,Pune,Bronze,56151.04,3,Mid-Value
+TXN00080,C0108,2024-10-08,30654.28,Utilities,Online,Completed,Delhi,Platinum,209351.72,7,High-Value
+TXN00081,C0070,2024-03-31,39070.6,Shopping,Mobile App,Completed,Mumbai,Silver,109125.14,4,High-Value
+TXN00082,C0187,2023-08-29,33134.93,Groceries,Online,Completed,Chennai,Gold,134810.97,4,High-Value
+TXN00083,C0007,2024-02-11,26246.74,Groceries,Online,Completed,Delhi,Silver,44706.87,3,Mid-Value
+TXN00084,C0064,2023-10-18,22213.71,Travel,Online,Completed,Delhi,Platinum,133758.13,6,High-Value
+TXN00085,C0120,2024-07-07,46749.39,Entertainment,Online,Failed,Chennai,Platinum,93753.17,3,Mid-Value
+TXN00086,C0135,2024-10-17,32012.46,Healthcare,In-Store,Completed,Bangalore,Bronze,95600.27,4,Mid-Value
+TXN00087,C0040,2023-11-07,626.74,Travel,In-Store,Completed,Bangalore,Bronze,109586.67,5,High-Value
+TXN00088,C0003,2024-03-16,39918.44,Dining,Online,Completed,Pune,Silver,220804.35,7,High-Value
+TXN00089,C0184,2024-10-23,19547.19,Utilities,Online,Completed,Chennai,Bronze,80061.99,3,Mid-Value
+TXN00090,C0073,2024-10-26,37172.05,Healthcare,In-Store,Completed,Bangalore,Platinum,272644.62,8,High-Value
+TXN00093,C0119,2024-12-14,39592.09,Shopping,Online,Pending,Mumbai,Platinum,168078.59,7,High-Value
+TXN00094,C0047,2023-07-16,44795.38,Healthcare,In-Store,Pending,Bangalore,Silver,181301.21,5,High-Value
+TXN00095,C0189,2023-02-04,10039.08,Groceries,Mobile App,Completed,Delhi,Silver,31371.28,3,Mid-Value
+TXN00096,C0162,2023-02-13,37261.76,Groceries,In-Store,Completed,Pune,Gold,208342.83,6,High-Value
+TXN00097,C0061,2024-10-10,21764.67,Electronics,Online,Completed,Mumbai,Platinum,58005.58,4,Mid-Value
+TXN00098,C0177,2024-09-02,7834.1,Groceries,Online,Completed,Mumbai,Gold,106713.73,4,High-Value
+TXN00099,C0092,2024-10-22,7780.53,Groceries,Online,Completed,Delhi,Platinum,7780.53,1,Low-Value
+TXN00100,C0188,2023-07-17,1165.51,Utilities,In-Store,Completed,Chennai,Bronze,37035.31,3,Mid-Value
+TXN00101,C0139,2024-12-14,24555.59,Travel,Mobile App,Completed,Chennai,Silver,91899.49,4,Mid-Value
+TXN00102,C0018,2024-06-27,7835.77,Healthcare,In-Store,Completed,Pune,Gold,162930.47,7,High-Value
+TXN00103,C0159,2024-01-08,38823.23,Dining,In-Store,Completed,Chennai,Platinum,116360.3,4,High-Value
+TXN00104,C0197,2024-07-18,7791.16,Healthcare,In-Store,Completed,Mumbai,Silver,35554.93,3,Mid-Value
+TXN00105,C0046,2023-02-02,10183.74,Entertainment,Online,Completed,Chennai,Bronze,195325.3,9,High-Value
+TXN00106,C0013,2024-01-11,11114.07,Groceries,Online,Failed,Mumbai,Platinum,54879.84,5,Mid-Value
+TXN00107,C0164,2023-03-04,18110.21,Utilities,In-Store,Completed,Mumbai,Bronze,41969.23,3,Mid-Value
+TXN00108,C0020,2023-08-10,48033.28,Groceries,Online,Completed,Pune,Silver,170344.54,7,High-Value
+TXN00109,C0143,2024-07-25,20817.71,Groceries,Mobile App,Completed,Mumbai,Silver,101240.51,4,High-Value
+TXN00110,C0047,2024-07-17,20137.7,Shopping,Mobile App,Completed,Delhi,Bronze,181301.21,5,High-Value
+TXN00111,C0096,2024-02-27,38232.8,Utilities,Mobile App,Completed,Chennai,Bronze,121371.88,3,High-Value
+TXN00112,C0093,2024-04-08,22430.24,Utilities,Online,Completed,Delhi,Gold,152416.71,6,High-Value
+TXN00113,C0077,2023-08-16,10819.66,Shopping,Online,Completed,Chennai,Silver,153818.91,5,High-Value
+TXN00114,C0025,2023-02-08,23072.45,Travel,Online,Completed,Delhi,Gold,108905.59,6,High-Value
+TXN00115,C0147,2024-02-14,28496.34,Dining,Mobile App,Completed,Chennai,Gold,36448.47,3,Mid-Value
+TXN00116,C0153,2024-10-19,15089.62,Utilities,Online,Completed,Bangalore,Platinum,43478.13,4,Mid-Value
+TXN00117,C0031,2023-08-21,37409.16,Electronics,Mobile App,Completed,Chennai,Silver,184517.61,8,High-Value
+TXN00118,C0084,2024-05-29,34918.66,Travel,Online,Completed,Chennai,Gold,145986.52,4,High-Value
+TXN00119,C0057,2024-03-18,14560.17,Utilities,Online,Completed,Bangalore,Bronze,48083.51,4,Mid-Value
+TXN00120,C0022,2024-02-13,25140.97,Travel,Online,Completed,Chennai,Silver,87408.72,3,Mid-Value
+TXN00121,C0063,2023-03-15,13386.23,Utilities,In-Store,Completed,Delhi,Bronze,108596.31,4,High-Value
+TXN00122,C0049,2023-11-25,17291.79,Electronics,In-Store,Completed,Chennai,Silver,129386.22,7,High-Value
+TXN00123,C0113,2023-02-15,46218.24,Dining,Online,Completed,Mumbai,Silver,210225.51,6,High-Value
+TXN00124,C0159,2023-06-01,43450.74,Healthcare,Online,Completed,Delhi,Silver,116360.3,4,High-Value
+TXN00125,C0190,2024-07-04,10672.58,Healthcare,Mobile App,Completed,Mumbai,Platinum,75634.29,3,Mid-Value
+TXN00126,C0150,2024-11-10,26387.27,Healthcare,Online,Completed,Bangalore,Gold,26387.27,1,Low-Value
+TXN00127,C0018,2024-02-02,33052.6,Shopping,Online,Completed,Bangalore,Gold,162930.47,7,High-Value
+TXN00128,C0081,2024-05-11,43351.96,Groceries,Online,Completed,Mumbai,Silver,51867.07,2,Mid-Value
+TXN00129,C0136,2023-11-09,16745.12,Utilities,Mobile App,Completed,Pune,Bronze,16745.12,1,Low-Value
+TXN00130,C0016,2024-10-02,12958.2,Utilities,Online,Failed,Bangalore,Silver,15792.16,2,Low-Value
+TXN00131,C0023,2024-01-27,26083.82,Dining,In-Store,Completed,Delhi,Platinum,125885.58,6,High-Value
+TXN00132,C0139,2023-05-15,10417.19,Travel,Mobile App,Completed,Chennai,Silver,91899.49,4,Mid-Value
+TXN00133,C0111,2023-05-29,32845.96,Travel,In-Store,Completed,Pune,Gold,146336.23,5,High-Value
+TXN00134,C0196,2023-11-23,44018.58,Utilities,In-Store,Completed,Delhi,Silver,141374.36,5,High-Value
+TXN00135,C0200,2023-07-12,5427.89,Travel,Online,Completed,Pune,Silver,56739.69,4,Mid-Value
+TXN00136,C0060,2024-12-04,1401.62,Groceries,Mobile App,Completed,Delhi,Silver,135024.6,6,High-Value
+TXN00137,C0100,2024-05-18,23744.96,Travel,Online,Completed,Bangalore,Silver,24108.96,2,Low-Value
+TXN00138,C0191,2024-11-18,49413.35,Dining,Online,Completed,Delhi,Platinum,56093.8,2,Mid-Value
+TXN00139,C0064,2024-03-13,20302.85,Electronics,Mobile App,Completed,Chennai,Gold,133758.13,6,High-Value
+TXN00140,C0134,2023-04-22,22635.32,Electronics,Online,Completed,Chennai,Gold,88017.26,4,Mid-Value
+TXN00141,C0049,2023-10-26,22033.74,Healthcare,In-Store,Completed,Chennai,Silver,129386.22,7,High-Value
+TXN00142,C0119,2024-10-23,22639.73,Groceries,Online,Completed,Bangalore,Bronze,168078.59,7,High-Value
+TXN00143,C0116,2023-01-26,9026.04,Dining,In-Store,Completed,Pune,Gold,53509.58,2,Mid-Value
+TXN00144,C0024,2023-04-27,35340.71,Shopping,Online,Completed,Pune,Platinum,141952.51,6,High-Value
+TXN00145,C0141,2024-01-25,2290.91,Travel,In-Store,Completed,Pune,Gold,38950.47,4,Mid-Value
+TXN00146,C0108,2023-11-12,15544.96,Entertainment,In-Store,Completed,Chennai,Bronze,209351.72,7,High-Value
+TXN00147,C0004,2024-04-14,24931.62,Entertainment,Mobile App,Pending,Bangalore,Platinum,71357.13,3,Mid-Value
+TXN00148,C0105,2024-03-28,4062.31,Electronics,Online,Pending,Pune,Gold,134198.5,5,High-Value
+TXN00150,C0013,2023-04-22,20906.15,Travel,Online,Completed,Chennai,Silver,54879.84,5,Mid-Value
+TXN00151,C0117,2024-08-15,18073.41,Electronics,Online,Completed,Bangalore,Gold,69204.98,5,Mid-Value
+TXN00152,C0075,2024-04-27,6813.83,Healthcare,In-Store,Completed,Mumbai,Gold,103242.43,5,High-Value
+TXN00153,C0124,2024-12-06,30278.42,Healthcare,In-Store,Completed,Delhi,Silver,76497.81,4,Mid-Value
+TXN00154,C0158,2024-07-30,24870.21,Entertainment,In-Store,Pending,Pune,Gold,111857.56,6,High-Value
+TXN00155,C0031,2023-01-25,23297.79,Groceries,Mobile App,Pending,Delhi,Bronze,184517.61,8,High-Value
+TXN00156,C0144,2024-10-14,10695.66,Dining,Mobile App,Completed,Delhi,Gold,35541.85,5,Mid-Value
+TXN00157,C0030,2024-12-03,16730.82,Utilities,Mobile App,Completed,Delhi,Platinum,137365.73,8,High-Value
+TXN00158,C0122,2023-02-06,32318.05,Entertainment,Online,Completed,Bangalore,Gold,266176.62,9,High-Value
+TXN00159,C0134,2023-11-03,28290.64,Shopping,Mobile App,Completed,Delhi,Gold,88017.26,4,Mid-Value
+TXN00160,C0039,2023-10-15,42052.88,Shopping,In-Store,Completed,Chennai,Gold,163435.49,5,High-Value
+TXN00161,C0193,2023-11-12,35292.78,Shopping,Mobile App,Completed,Bangalore,Bronze,101700.45,3,High-Value
+TXN00162,C0056,2024-06-21,15185.68,Groceries,In-Store,Completed,Mumbai,Platinum,169967.01,6,High-Value
+TXN00163,C0129,2023-06-07,9591.56,Entertainment,Mobile App,Pending,Mumbai,Silver,63477.88,4,Mid-Value
+TXN00165,C0012,2023-04-16,26076.83,Healthcare,Online,Completed,Pune,Bronze,132996.92,4,High-Value
+TXN00167,C0053,2024-07-09,17580.88,Shopping,In-Store,Completed,Mumbai,Bronze,84508.82,4,Mid-Value
+TXN00168,C0157,2023-12-13,27074.8,Electronics,Online,Completed,Mumbai,Platinum,142588.04,6,High-Value
+TXN00169,C0101,2023-07-03,35263.41,Entertainment,Mobile App,Completed,Chennai,Gold,161989.14,4,High-Value
+TXN00170,C0194,2024-04-21,28432.69,Groceries,Mobile App,Completed,Bangalore,Platinum,176815.68,6,High-Value
+TXN00171,C0060,2023-08-18,7271.71,Healthcare,In-Store,Completed,Delhi,Platinum,135024.6,6,High-Value
+TXN00172,C0125,2023-01-31,3361.72,Groceries,In-Store,Completed,Chennai,Silver,31042.52,3,Mid-Value
+TXN00173,C0131,2023-04-16,20343.73,Groceries,In-Store,Completed,Chennai,Platinum,94160.44,3,Mid-Value
+TXN00174,C0062,2024-09-27,12260.18,Travel,In-Store,Completed,Bangalore,Bronze,93518.66,3,Mid-Value
+TXN00175,C0140,2024-12-11,11884.1,Groceries,Mobile App,Failed,Bangalore,Bronze,79336.99,4,Mid-Value
+TXN00176,C0143,2023-04-10,41118.95,Travel,In-Store,Failed,Bangalore,Bronze,101240.51,4,High-Value
+TXN00177,C0127,2024-10-22,33042.22,Groceries,Online,Pending,Mumbai,Silver,118982.2,4,High-Value
+TXN00178,C0170,2023-06-02,22703.42,Healthcare,In-Store,Completed,Delhi,Bronze,80459.54,5,Mid-Value
+TXN00179,C0112,2023-12-19,49515.43,Electronics,Mobile App,Failed,Delhi,Gold,65361.02,2,Mid-Value
+TXN00180,C0001,2024-12-21,28045.51,Shopping,Online,Pending,Bangalore,Bronze,171435.03,5,High-Value
+TXN00181,C0183,2024-01-27,20361.03,Utilities,Mobile App,Completed,Delhi,Platinum,75140.44,3,Mid-Value
+TXN00182,C0040,2023-10-23,49873.06,Travel,Online,Completed,Bangalore,Silver,109586.67,5,High-Value
+TXN00183,C0022,2023-05-21,32147.92,Utilities,In-Store,Pending,Bangalore,Platinum,87408.72,3,Mid-Value
+TXN00185,C0106,2024-07-13,28859.98,Electronics,Online,Completed,Mumbai,Silver,103316.95,4,High-Value
+TXN00186,C0187,2024-06-23,49180.6,Healthcare,In-Store,Completed,Mumbai,Bronze,134810.97,4,High-Value
+TXN00187,C0157,2023-02-24,45188.91,Electronics,In-Store,Completed,Delhi,Bronze,142588.04,6,High-Value
+TXN00188,C0075,2023-06-21,1862.78,Healthcare,Mobile App,Completed,Chennai,Gold,103242.43,5,High-Value
+TXN00189,C0169,2023-10-26,40463.9,Electronics,In-Store,Completed,Delhi,Silver,192056.03,5,High-Value
+TXN00190,C0158,2023-10-15,13833.33,Healthcare,Online,Completed,Bangalore,Bronze,111857.56,6,High-Value
+TXN00191,C0045,2023-09-25,39148.13,Dining,In-Store,Completed,Pune,Silver,164017.89,5,High-Value
+TXN00192,C0127,2024-02-27,38541.35,Dining,Mobile App,Completed,Delhi,Gold,118982.2,4,High-Value
+TXN00193,C0165,2023-09-28,37798.65,Groceries,Online,Completed,Chennai,Silver,84859.28,3,Mid-Value
+TXN00195,C0174,2023-11-20,48091.96,Electronics,Online,Pending,Delhi,Bronze,233634.67,6,High-Value
+TXN00196,C0070,2023-10-01,40135.59,Healthcare,Mobile App,Completed,Chennai,Silver,109125.14,4,High-Value
+TXN00199,C0182,2023-05-03,4410.68,Travel,In-Store,Completed,Mumbai,Silver,78457.69,4,Mid-Value
+TXN00200,C0065,2023-10-29,23401.08,Groceries,Mobile App,Completed,Delhi,Bronze,120643.34,5,High-Value
+TXN00201,C0042,2023-03-17,13936.65,Electronics,In-Store,Completed,Pune,Platinum,99257.21,6,Mid-Value
+TXN00202,C0018,2024-05-18,48973.16,Dining,Mobile App,Completed,Bangalore,Silver,162930.47,7,High-Value
+TXN00204,C0128,2023-06-02,32677.98,Electronics,Online,Completed,Chennai,Gold,114378.71,5,High-Value
+TXN00205,C0132,2024-12-25,47001.56,Entertainment,In-Store,Completed,Chennai,Silver,63956.42,2,Mid-Value
+TXN00206,C0001,2024-01-29,47712.35,Entertainment,Online,Completed,Bangalore,Gold,171435.03,5,High-Value
+TXN00207,C0162,2024-10-24,4624.28,Shopping,Online,Pending,Chennai,Gold,208342.83,6,High-Value
+TXN00208,C0099,2024-11-07,9631.06,Utilities,Online,Completed,Pune,Silver,78934.81,3,Mid-Value
+TXN00209,C0010,2023-07-17,1365.69,Dining,In-Store,Completed,Bangalore,Gold,30611.48,4,Mid-Value
+TXN00210,C0010,2023-12-14,2897.12,Electronics,In-Store,Completed,Chennai,Silver,30611.48,4,Mid-Value
+TXN00212,C0063,2024-12-19,32474.44,Electronics,Online,Completed,Chennai,Silver,108596.31,4,High-Value
+TXN00213,C0152,2023-03-07,40908.23,Groceries,Online,Completed,Bangalore,Bronze,59136.33,3,Mid-Value
+TXN00214,C0189,2024-11-25,20160.23,Groceries,Mobile App,Completed,Mumbai,Silver,31371.28,3,Mid-Value
+TXN00215,C0086,2023-03-06,6125.2,Travel,In-Store,Completed,Chennai,Gold,86337.95,4,Mid-Value
+TXN00217,C0107,2024-12-11,40389.85,Entertainment,Mobile App,Completed,Pune,Silver,160080.84,7,High-Value
+TXN00218,C0157,2024-12-09,1977.3,Travel,Mobile App,Completed,Delhi,Platinum,142588.04,6,High-Value
+TXN00219,C0002,2024-07-25,11858.39,Groceries,Mobile App,Failed,Chennai,Silver,195546.73,7,High-Value
+TXN00220,C0119,2024-10-03,33000.43,Healthcare,Online,Completed,Bangalore,Platinum,168078.59,7,High-Value
+TXN00221,C0046,2023-06-13,33540.12,Electronics,Online,Completed,Bangalore,Gold,195325.3,9,High-Value
+TXN00222,C0027,2023-02-23,46250.58,Travel,Online,Completed,Bangalore,Bronze,125577.63,3,High-Value
+TXN00223,C0108,2023-07-23,37379.63,Shopping,Online,Completed,Pune,Platinum,209351.72,7,High-Value
+TXN00224,C0057,2023-03-17,23602.41,Entertainment,Online,Pending,Bangalore,Bronze,48083.51,4,Mid-Value
+TXN00225,C0035,2024-04-13,36019.08,Shopping,In-Store,Completed,Pune,Gold,145454.06,5,High-Value
+TXN00226,C0120,2024-04-14,20969.37,Shopping,Online,Pending,Chennai,Silver,93753.17,3,Mid-Value
+TXN00227,C0148,2024-07-20,42764.7,Groceries,In-Store,Pending,Bangalore,Bronze,162819.51,5,High-Value
+TXN00228,C0004,2024-03-14,36835.33,Dining,Online,Completed,Pune,Gold,71357.13,3,Mid-Value
+TXN00230,C0127,2023-09-04,4246.27,Electronics,Mobile App,Completed,Mumbai,Gold,118982.2,4,High-Value
+TXN00232,C0095,2024-10-03,23268.36,Electronics,Mobile App,Completed,Bangalore,Bronze,97565.22,4,Mid-Value
+TXN00233,C0179,2024-09-19,27167.51,Dining,Mobile App,Completed,Delhi,Gold,116012.23,4,High-Value
+TXN00234,C0029,2024-01-28,18342.98,Electronics,In-Store,Completed,Pune,Silver,114410.64,4,High-Value
+TXN00235,C0086,2023-09-02,27027.73,Entertainment,Mobile App,Failed,Pune,Bronze,86337.95,4,Mid-Value
+TXN00236,C0091,2023-10-01,25227.94,Utilities,In-Store,Completed,Mumbai,Platinum,118756.43,5,High-Value
+TXN00237,C0182,2024-06-28,33947.58,Healthcare,In-Store,Completed,Mumbai,Silver,78457.69,4,Mid-Value
+TXN00238,C0118,2023-03-31,4100.5,Travel,In-Store,Failed,Pune,Platinum,55314.9,3,Mid-Value
+TXN00239,C0039,2023-07-29,26082.31,Electronics,In-Store,Completed,Bangalore,Platinum,163435.49,5,High-Value
+TXN00240,C0189,2024-10-22,1171.97,Dining,Online,Completed,Delhi,Platinum,31371.28,3,Mid-Value
+TXN00241,C0149,2023-12-18,32822.45,Shopping,In-Store,Completed,Delhi,Silver,87336.39,3,Mid-Value
+TXN00242,C0079,2023-06-25,39484.46,Dining,In-Store,Completed,Delhi,Platinum,50341.97,2,Mid-Value
+TXN00243,C0043,2024-09-25,46214.17,Healthcare,Online,Failed,Pune,Silver,70663.96,4,Mid-Value
+TXN00244,C0061,2023-04-30,2153.46,Shopping,Mobile App,Completed,Mumbai,Bronze,58005.58,4,Mid-Value
+TXN00245,C0089,2023-06-01,18708.46,Travel,Mobile App,Completed,Pune,Platinum,19513.52,2,Low-Value
+TXN00246,C0082,2023-06-09,314.29,Shopping,Mobile App,Completed,Chennai,Silver,61233.23,4,Mid-Value
+TXN00248,C0159,2023-08-14,22354.04,Groceries,In-Store,Completed,Delhi,Silver,116360.3,4,High-Value
+TXN00249,C0006,2023-03-27,26966.77,Entertainment,Mobile App,Completed,Delhi,Gold,124754.65,6,High-Value
+TXN00251,C0056,2024-03-30,37102.23,Utilities,In-Store,Completed,Bangalore,Silver,169967.01,6,High-Value
+TXN00252,C0151,2024-09-04,4395.29,Dining,In-Store,Completed,Chennai,Platinum,62240.36,4,Mid-Value
+TXN00253,C0023,2023-01-07,20532.09,Healthcare,In-Store,Completed,Pune,Silver,125885.58,6,High-Value
+TXN00254,C0098,2023-10-24,27737.96,Electronics,In-Store,Pending,Mumbai,Gold,86706.69,4,Mid-Value
+TXN00255,C0040,2023-09-26,15078.45,Entertainment,Online,Completed,Pune,Gold,109586.67,5,High-Value
+TXN00256,C0031,2023-10-11,24703.21,Groceries,Mobile App,Completed,Bangalore,Gold,184517.61,8,High-Value
+TXN00257,C0096,2024-06-08,36674.57,Electronics,In-Store,Completed,Pune,Bronze,121371.88,3,High-Value
+TXN00258,C0042,2023-02-24,13706.25,Utilities,Mobile App,Pending,Mumbai,Silver,99257.21,6,Mid-Value
+TXN00259,C0197,2024-10-05,9244.05,Groceries,Mobile App,Completed,Delhi,Bronze,35554.93,3,Mid-Value
+TXN00261,C0106,2023-12-15,46053.28,Travel,Online,Completed,Chennai,Gold,103316.95,4,High-Value
+TXN00262,C0107,2024-04-16,45809.95,Groceries,Online,Failed,Bangalore,Bronze,160080.84,7,High-Value
+TXN00263,C0045,2024-12-27,15303.74,Groceries,Online,Completed,Pune,Silver,164017.89,5,High-Value
+TXN00264,C0021,2024-03-11,34571.83,Groceries,Online,Completed,Mumbai,Gold,58179.29,2,Mid-Value
+TXN00266,C0151,2023-07-24,9320.61,Shopping,Online,Completed,Delhi,Bronze,62240.36,4,Mid-Value
+TXN00268,C0073,2023-06-25,45092.85,Electronics,Mobile App,Completed,Delhi,Silver,272644.62,8,High-Value
+TXN00269,C0113,2024-11-20,47891.61,Travel,In-Store,Failed,Delhi,Gold,210225.51,6,High-Value
+TXN00270,C0120,2023-04-23,26034.41,Entertainment,In-Store,Completed,Mumbai,Platinum,93753.17,3,Mid-Value
+TXN00271,C0073,2024-04-12,30059.44,Healthcare,Mobile App,Failed,Bangalore,Silver,272644.62,8,High-Value
+TXN00272,C0018,2024-05-02,46960.19,Shopping,Online,Completed,Chennai,Gold,162930.47,7,High-Value
+TXN00273,C0031,2023-05-27,19801.09,Groceries,Mobile App,Failed,Delhi,Silver,184517.61,8,High-Value
+TXN00274,C0153,2024-02-18,6225.83,Utilities,Mobile App,Completed,Bangalore,Bronze,43478.13,4,Mid-Value
+TXN00275,C0122,2024-11-13,30197.96,Utilities,In-Store,Completed,Bangalore,Platinum,266176.62,9,High-Value
+TXN00276,C0060,2024-10-05,47125.91,Electronics,Online,Completed,Pune,Platinum,135024.6,6,High-Value
+TXN00277,C0155,2024-11-26,16415.1,Healthcare,Mobile App,Completed,Bangalore,Platinum,60748.3,2,Mid-Value
+TXN00278,C0052,2023-10-28,33138.45,Entertainment,Mobile App,Completed,Mumbai,Platinum,78572.61,2,Mid-Value
+TXN00280,C0126,2024-03-17,6810.96,Utilities,In-Store,Completed,Chennai,Platinum,39297.8,3,Mid-Value
+TXN00281,C0122,2024-07-29,42732.14,Electronics,In-Store,Completed,Delhi,Bronze,266176.62,9,High-Value
+TXN00283,C0025,2024-03-14,17322.64,Shopping,In-Store,Completed,Chennai,Gold,108905.59,6,High-Value
+TXN00284,C0177,2023-03-09,43460.1,Groceries,In-Store,Completed,Bangalore,Platinum,106713.73,4,High-Value
+TXN00285,C0069,2023-01-21,34828.33,Electronics,In-Store,Completed,Mumbai,Silver,34828.33,1,Mid-Value
+TXN00286,C0087,2024-05-23,25188.15,Shopping,Online,Completed,Mumbai,Silver,111619.56,5,High-Value
+TXN00287,C0074,2023-09-29,2471.81,Utilities,Online,Completed,Chennai,Bronze,57504.26,4,Mid-Value
+TXN00288,C0070,2023-03-10,28364.77,Entertainment,In-Store,Completed,Delhi,Platinum,109125.14,4,High-Value
+TXN00289,C0170,2024-07-06,15736.31,Utilities,In-Store,Completed,Mumbai,Silver,80459.54,5,Mid-Value
+TXN00290,C0148,2024-05-26,10726.34,Entertainment,In-Store,Failed,Bangalore,Gold,162819.51,5,High-Value
+TXN00291,C0134,2023-07-25,18277.31,Travel,Online,Completed,Delhi,Gold,88017.26,4,Mid-Value
+TXN00292,C0163,2023-07-28,42313.75,Healthcare,In-Store,Completed,Mumbai,Silver,279289.67,8,High-Value
+TXN00293,C0050,2023-01-29,12354.77,Healthcare,In-Store,Completed,Pune,Silver,12354.77,1,Low-Value
+TXN00294,C0070,2023-05-20,1554.18,Healthcare,Mobile App,Completed,Mumbai,Gold,109125.14,4,High-Value
+TXN00295,C0022,2023-11-18,30119.83,Groceries,In-Store,Pending,Pune,Silver,87408.72,3,Mid-Value
+TXN00296,C0029,2024-08-07,36750.57,Groceries,Mobile App,Completed,Bangalore,Gold,114410.64,4,High-Value
+TXN00297,C0061,2024-09-06,6201.61,Shopping,In-Store,Pending,Bangalore,Silver,58005.58,4,Mid-Value
+TXN00298,C0037,2023-04-20,8840.2,Healthcare,In-Store,Completed,Mumbai,Bronze,22013.73,2,Low-Value
+TXN00299,C0140,2024-03-09,23795.22,Dining,In-Store,Pending,Delhi,Gold,79336.99,4,Mid-Value
+TXN00300,C0166,2024-09-12,1836.99,Electronics,Mobile App,Pending,Delhi,Gold,107327.05,5,High-Value
+TXN00301,C0137,2023-08-31,42896.59,Utilities,Online,Pending,Mumbai,Silver,109453.98,4,High-Value
+TXN00302,C0077,2023-08-04,42984.9,Travel,In-Store,Completed,Mumbai,Bronze,153818.91,5,High-Value
+TXN00303,C0021,2024-05-18,23607.46,Utilities,In-Store,Completed,Delhi,Gold,58179.29,2,Mid-Value
+TXN00304,C0091,2024-03-06,30145.59,Shopping,In-Store,Completed,Bangalore,Silver,118756.43,5,High-Value
+TXN00305,C0001,2024-02-15,10083.76,Healthcare,In-Store,Completed,Pune,Platinum,171435.03,5,High-Value
+TXN00306,C0082,2024-04-07,23970.44,Travel,In-Store,Completed,Mumbai,Platinum,61233.23,4,Mid-Value
+TXN00307,C0095,2023-07-06,19735.36,Utilities,Mobile App,Completed,Pune,Gold,97565.22,4,Mid-Value
+TXN00308,C0119,2023-07-23,13162.98,Travel,Online,Completed,Delhi,Silver,168078.59,7,High-Value
+TXN00309,C0146,2023-05-01,804.33,Utilities,In-Store,Pending,Delhi,Bronze,159001.53,6,High-Value
+TXN00310,C0192,2024-05-21,19165.47,Utilities,Online,Completed,Bangalore,Silver,89991.39,4,Mid-Value
+TXN00311,C0105,2023-05-30,1535.78,Healthcare,Online,Completed,Bangalore,Gold,134198.5,5,High-Value
+TXN00312,C0003,2024-04-25,6746.93,Shopping,Mobile App,Completed,Chennai,Bronze,220804.35,7,High-Value
+TXN00313,C0019,2023-04-08,27894.3,Electronics,In-Store,Failed,Chennai,Gold,105342.83,3,High-Value
+TXN00314,C0002,2023-09-17,25276.65,Utilities,In-Store,Failed,Mumbai,Silver,195546.73,7,High-Value
+TXN00315,C0067,2023-06-23,25236.96,Shopping,In-Store,Completed,Mumbai,Bronze,84170.77,3,Mid-Value
+TXN00316,C0012,2023-05-11,25010.61,Healthcare,Mobile App,Completed,Delhi,Bronze,132996.92,4,High-Value
+TXN00317,C0112,2023-06-18,15845.59,Entertainment,Online,Completed,Pune,Silver,65361.02,2,Mid-Value
+TXN00318,C0014,2023-08-24,9238.75,Entertainment,In-Store,Completed,Bangalore,Gold,53758.68,4,Mid-Value
+TXN00319,C0114,2024-01-01,49442.05,Entertainment,In-Store,Completed,Mumbai,Silver,85000.53,2,Mid-Value
+TXN00320,C0073,2023-07-04,41764.19,Healthcare,Mobile App,Pending,Chennai,Silver,272644.62,8,High-Value
+TXN00321,C0107,2023-03-20,12383.26,Entertainment,Mobile App,Completed,Mumbai,Platinum,160080.84,7,High-Value
+TXN00322,C0096,2024-08-27,46464.51,Groceries,In-Store,Completed,Bangalore,Bronze,121371.88,3,High-Value
+TXN00323,C0153,2024-11-04,389.69,Electronics,Mobile App,Completed,Chennai,Silver,43478.13,4,Mid-Value
+TXN00324,C0055,2023-02-19,40097.74,Healthcare,In-Store,Completed,Mumbai,Platinum,116798.0,3,High-Value
+TXN00325,C0066,2023-07-02,12080.0,Utilities,Online,Completed,Pune,Gold,60501.38,3,Mid-Value
+TXN00326,C0077,2024-05-17,40074.91,Healthcare,Mobile App,Completed,Pune,Platinum,153818.91,5,High-Value
+TXN00327,C0115,2024-02-02,23874.34,Utilities,Online,Completed,Bangalore,Gold,143465.46,5,High-Value
+TXN00328,C0011,2024-06-09,17153.07,Entertainment,Mobile App,Completed,Chennai,Gold,147078.27,4,High-Value
+TXN00329,C0075,2024-04-24,21924.04,Entertainment,In-Store,Completed,Chennai,Platinum,103242.43,5,High-Value
+TXN00330,C0076,2024-08-05,2481.64,Groceries,Online,Completed,Chennai,Bronze,23715.91,3,Low-Value
+TXN00331,C0091,2023-09-18,29319.84,Electronics,Online,Completed,Mumbai,Gold,118756.43,5,High-Value
+TXN00332,C0107,2024-12-22,14952.61,Entertainment,Mobile App,Completed,Pune,Silver,160080.84,7,High-Value
+TXN00334,C0118,2024-12-09,20314.07,Entertainment,In-Store,Completed,Bangalore,Bronze,55314.9,3,Mid-Value
+TXN00335,C0023,2023-05-09,6842.19,Dining,Online,Pending,Bangalore,Silver,125885.58,6,High-Value
+TXN00336,C0167,2023-09-05,21845.84,Dining,Online,Completed,Pune,Silver,57311.75,3,Mid-Value
+TXN00337,C0190,2024-12-20,22318.77,Entertainment,In-Store,Completed,Bangalore,Gold,75634.29,3,Mid-Value
+TXN00338,C0086,2023-01-09,5222.91,Utilities,In-Store,Pending,Delhi,Gold,86337.95,4,Mid-Value
+TXN00339,C0125,2024-02-14,24356.44,Entertainment,Online,Completed,Mumbai,Bronze,31042.52,3,Mid-Value
+TXN00340,C0166,2024-03-03,44468.12,Groceries,In-Store,Completed,Pune,Bronze,107327.05,5,High-Value
+TXN00341,C0186,2023-07-16,23515.1,Entertainment,Online,Completed,Bangalore,Silver,169059.47,5,High-Value
+TXN00342,C0076,2024-12-29,19579.52,Utilities,Mobile App,Completed,Pune,Silver,23715.91,3,Low-Value
+TXN00343,C0073,2024-12-08,37487.79,Entertainment,Online,Completed,Bangalore,Bronze,272644.62,8,High-Value
+TXN00344,C0061,2023-08-03,27885.84,Electronics,In-Store,Pending,Chennai,Gold,58005.58,4,Mid-Value
+TXN00345,C0017,2023-12-12,21587.96,Dining,Online,Completed,Mumbai,Bronze,110130.07,4,High-Value
+TXN00346,C0039,2024-12-07,43697.41,Groceries,Mobile App,Completed,Mumbai,Gold,163435.49,5,High-Value
+TXN00347,C0157,2024-09-16,39129.6,Groceries,Mobile App,Completed,Delhi,Silver,142588.04,6,High-Value
+TXN00348,C0187,2023-10-27,35437.35,Entertainment,Mobile App,Pending,Mumbai,Silver,134810.97,4,High-Value
+TXN00349,C0113,2024-03-01,38484.04,Electronics,Online,Pending,Delhi,Bronze,210225.51,6,High-Value
+TXN00350,C0184,2024-02-29,18096.11,Dining,Online,Completed,Bangalore,Platinum,80061.99,3,Mid-Value
+TXN00351,C0105,2024-04-14,47596.84,Shopping,Online,Completed,Mumbai,Gold,134198.5,5,High-Value
+TXN00352,C0087,2023-11-19,20142.38,Travel,In-Store,Completed,Chennai,Gold,111619.56,5,High-Value
+TXN00353,C0162,2024-12-31,39973.63,Healthcare,In-Store,Completed,Delhi,Bronze,208342.83,6,High-Value
+TXN00354,C0003,2023-10-14,45020.41,Travel,Mobile App,Completed,Chennai,Platinum,220804.35,7,High-Value
+TXN00355,C0179,2023-12-20,44394.98,Utilities,Online,Pending,Pune,Bronze,116012.23,4,High-Value
+TXN00357,C0062,2023-11-08,36352.81,Groceries,Mobile App,Completed,Mumbai,Gold,93518.66,3,Mid-Value
+TXN00358,C0115,2023-11-02,28664.52,Electronics,In-Store,Completed,Chennai,Silver,143465.46,5,High-Value
+TXN00359,C0090,2023-11-03,14298.32,Travel,Mobile App,Completed,Pune,Bronze,110671.01,4,High-Value
+TXN00360,C0117,2023-04-11,7413.01,Utilities,In-Store,Completed,Bangalore,Gold,69204.98,5,Mid-Value
+TXN00361,C0095,2024-11-24,26360.15,Utilities,In-Store,Completed,Bangalore,Platinum,97565.22,4,Mid-Value
+TXN00362,C0042,2023-05-28,25338.72,Entertainment,Mobile App,Completed,Pune,Platinum,99257.21,6,Mid-Value
+TXN00363,C0122,2023-02-03,37350.17,Shopping,Online,Completed,Mumbai,Silver,266176.62,9,High-Value
+TXN00365,C0079,2023-10-18,10857.51,Entertainment,Online,Completed,Chennai,Bronze,50341.97,2,Mid-Value
+TXN00366,C0145,2024-04-08,45024.34,Utilities,In-Store,Pending,Bangalore,Platinum,77448.12,2,Mid-Value
+TXN00367,C0171,2024-04-04,7534.23,Shopping,Online,Completed,Bangalore,Bronze,44135.6,3,Mid-Value
+TXN00368,C0139,2023-02-16,47908.17,Entertainment,Mobile App,Completed,Delhi,Gold,91899.49,4,Mid-Value
+TXN00370,C0005,2023-10-09,39359.18,Dining,Mobile App,Pending,Delhi,Platinum,85826.51,3,Mid-Value
+TXN00371,C0151,2023-02-16,24624.5,Electronics,In-Store,Completed,Delhi,Gold,62240.36,4,Mid-Value
+TXN00372,C0030,2023-04-12,27134.79,Healthcare,Online,Completed,Pune,Gold,137365.73,8,High-Value
+TXN00373,C0158,2023-11-30,9154.75,Electronics,In-Store,Completed,Bangalore,Gold,111857.56,6,High-Value
+TXN00374,C0014,2023-07-27,12057.19,Dining,In-Store,Completed,Delhi,Platinum,53758.68,4,Mid-Value
+TXN00376,C0064,2024-07-22,32612.39,Travel,In-Store,Completed,Pune,Bronze,133758.13,6,High-Value
+TXN00378,C0001,2023-03-03,46681.99,Entertainment,In-Store,Completed,Pune,Bronze,171435.03,5,High-Value
+TXN00379,C0012,2023-06-15,36985.23,Groceries,In-Store,Completed,Delhi,Platinum,132996.92,4,High-Value
+TXN00380,C0054,2024-09-17,25290.53,Shopping,Mobile App,Failed,Delhi,Silver,193655.03,9,High-Value
+TXN00381,C0170,2023-11-26,17147.33,Entertainment,Mobile App,Completed,Chennai,Platinum,80459.54,5,Mid-Value
+TXN00382,C0002,2023-01-10,33668.05,Utilities,Mobile App,Pending,Mumbai,Gold,195546.73,7,High-Value
+TXN00383,C0172,2024-03-31,33645.07,Shopping,In-Store,Pending,Mumbai,Gold,75229.28,2,Mid-Value
+TXN00385,C0024,2024-09-20,31299.3,Dining,Online,Failed,Chennai,Silver,141952.51,6,High-Value
+TXN00386,C0002,2023-07-20,49214.75,Utilities,Online,Pending,Chennai,Silver,195546.73,7,High-Value
+TXN00387,C0017,2024-08-25,6499.5,Groceries,Online,Completed,Delhi,Silver,110130.07,4,High-Value
+TXN00388,C0174,2023-01-24,49598.37,Healthcare,Mobile App,Completed,Mumbai,Bronze,233634.67,6,High-Value
+TXN00389,C0111,2024-02-21,13774.38,Entertainment,In-Store,Completed,Delhi,Platinum,146336.23,5,High-Value
+TXN00390,C0137,2024-04-04,15880.47,Utilities,Online,Completed,Pune,Platinum,109453.98,4,High-Value
+TXN00392,C0065,2023-09-11,5481.25,Dining,In-Store,Pending,Mumbai,Platinum,120643.34,5,High-Value
+TXN00393,C0196,2023-04-08,31304.9,Groceries,Online,Failed,Mumbai,Silver,141374.36,5,High-Value
+TXN00394,C0016,2024-03-28,2833.96,Utilities,Online,Completed,Bangalore,Gold,15792.16,2,Low-Value
+TXN00395,C0159,2024-02-25,11732.29,Electronics,In-Store,Completed,Delhi,Gold,116360.3,4,High-Value
+TXN00396,C0117,2024-06-13,16476.86,Dining,Online,Completed,Pune,Silver,69204.98,5,Mid-Value
+TXN00397,C0164,2024-06-05,12888.68,Utilities,In-Store,Completed,Mumbai,Silver,41969.23,3,Mid-Value
+TXN00398,C0080,2024-08-21,21848.82,Shopping,In-Store,Completed,Chennai,Bronze,40876.41,2,Mid-Value
+TXN00399,C0075,2024-01-13,48516.53,Travel,Online,Completed,Delhi,Silver,103242.43,5,High-Value
+TXN00400,C0052,2024-10-17,45434.16,Groceries,In-Store,Completed,Delhi,Bronze,78572.61,2,Mid-Value
+TXN00401,C0158,2023-11-03,20992.89,Travel,Online,Completed,Mumbai,Silver,111857.56,6,High-Value
+TXN00402,C0178,2023-08-24,23380.18,Dining,Online,Completed,Bangalore,Silver,96541.92,4,Mid-Value
+TXN00403,C0103,2023-07-08,41321.61,Electronics,In-Store,Completed,Bangalore,Silver,84728.26,3,Mid-Value
+TXN00404,C0162,2024-08-22,45644.17,Shopping,Online,Failed,Delhi,Silver,208342.83,6,High-Value
+TXN00405,C0087,2024-07-21,12373.62,Dining,Online,Completed,Pune,Platinum,111619.56,5,High-Value
+TXN00406,C0168,2023-04-24,16985.33,Dining,In-Store,Completed,Chennai,Platinum,92011.07,4,Mid-Value
+TXN00407,C0183,2023-03-08,6012.82,Travel,Online,Completed,Pune,Gold,75140.44,3,Mid-Value
+TXN00408,C0196,2024-09-22,29407.56,Healthcare,Online,Completed,Chennai,Platinum,141374.36,5,High-Value
+TXN00409,C0054,2023-03-25,39254.79,Groceries,Online,Completed,Bangalore,Platinum,193655.03,9,High-Value
+TXN00410,C0046,2023-11-26,35653.09,Entertainment,Mobile App,Failed,Chennai,Gold,195325.3,9,High-Value
+TXN00411,C0054,2023-08-13,44754.74,Entertainment,Online,Completed,Delhi,Bronze,193655.03,9,High-Value
+TXN00412,C0141,2023-03-28,6803.08,Groceries,In-Store,Completed,Chennai,Bronze,38950.47,4,Mid-Value
+TXN00413,C0110,2024-04-06,23430.79,Utilities,In-Store,Pending,Pune,Bronze,107398.34,3,High-Value
+TXN00414,C0166,2023-03-19,18018.74,Groceries,In-Store,Pending,Pune,Gold,107327.05,5,High-Value
+TXN00415,C0031,2023-03-15,18075.82,Dining,In-Store,Completed,Delhi,Silver,184517.61,8,High-Value
+TXN00416,C0181,2024-09-10,49899.99,Healthcare,Online,Completed,Bangalore,Gold,49899.99,1,Mid-Value
+TXN00417,C0121,2024-10-31,25681.08,Travel,In-Store,Completed,Chennai,Platinum,69770.52,2,Mid-Value
+TXN00418,C0185,2024-04-17,17098.91,Groceries,In-Store,Pending,Bangalore,Platinum,45169.36,3,Mid-Value
+TXN00421,C0085,2024-08-04,31528.98,Utilities,In-Store,Completed,Mumbai,Bronze,39339.19,2,Mid-Value
+TXN00422,C0146,2024-04-07,31986.26,Healthcare,Online,Completed,Chennai,Platinum,159001.53,6,High-Value
+TXN00423,C0007,2023-07-11,10030.04,Utilities,In-Store,Completed,Delhi,Gold,44706.87,3,Mid-Value
+TXN00424,C0044,2023-12-01,42999.4,Utilities,In-Store,Completed,Mumbai,Platinum,60446.29,2,Mid-Value
+TXN00425,C0053,2023-05-14,43535.41,Healthcare,In-Store,Pending,Delhi,Silver,84508.82,4,Mid-Value
+TXN00426,C0129,2024-12-02,23001.93,Dining,Online,Failed,Pune,Bronze,63477.88,4,Mid-Value
+TXN00427,C0146,2024-05-17,23064.21,Electronics,Mobile App,Completed,Delhi,Platinum,159001.53,6,High-Value
+TXN00428,C0157,2023-06-29,20811.13,Travel,Mobile App,Completed,Chennai,Gold,142588.04,6,High-Value
+TXN00429,C0101,2024-12-16,47289.8,Dining,Online,Completed,Pune,Platinum,161989.14,4,High-Value
+TXN00430,C0106,2024-07-20,6149.41,Shopping,Online,Completed,Pune,Bronze,103316.95,4,High-Value
+TXN00431,C0054,2024-06-02,2327.29,Electronics,Online,Completed,Bangalore,Silver,193655.03,9,High-Value
+TXN00432,C0102,2023-02-08,635.79,Groceries,Mobile App,Pending,Mumbai,Gold,6456.82,2,Low-Value
+TXN00433,C0141,2024-11-03,12190.45,Entertainment,Online,Completed,Chennai,Gold,38950.47,4,Mid-Value
+TXN00434,C0046,2023-10-29,6295.15,Utilities,Online,Completed,Delhi,Silver,195325.3,9,High-Value
+TXN00435,C0056,2023-02-05,44645.12,Dining,In-Store,Completed,Mumbai,Platinum,169967.01,6,High-Value
+TXN00436,C0177,2023-11-12,22254.94,Electronics,Online,Completed,Pune,Silver,106713.73,4,High-Value
+TXN00437,C0024,2023-01-17,21141.97,Electronics,In-Store,Pending,Mumbai,Silver,141952.51,6,High-Value
+TXN00438,C0186,2023-06-21,2296.22,Groceries,In-Store,Completed,Bangalore,Platinum,169059.47,5,High-Value
+TXN00439,C0031,2023-08-26,10767.62,Shopping,In-Store,Completed,Bangalore,Silver,184517.61,8,High-Value
+TXN00440,C0017,2024-11-04,40772.74,Shopping,Online,Completed,Mumbai,Silver,110130.07,4,High-Value
+TXN00441,C0065,2023-04-08,30033.37,Utilities,Mobile App,Failed,Delhi,Platinum,120643.34,5,High-Value
+TXN00442,C0018,2023-12-10,980.68,Entertainment,In-Store,Completed,Mumbai,Silver,162930.47,7,High-Value
+TXN00443,C0006,2024-09-23,37971.16,Groceries,In-Store,Completed,Pune,Bronze,124754.65,6,High-Value
+TXN00444,C0128,2023-10-31,10180.39,Utilities,Online,Completed,Bangalore,Bronze,114378.71,5,High-Value
+TXN00445,C0035,2023-10-12,15945.18,Electronics,Mobile App,Completed,Pune,Bronze,145454.06,5,High-Value
+TXN00446,C0088,2023-09-06,10370.29,Electronics,Mobile App,Failed,Bangalore,Bronze,84686.93,3,Mid-Value
+TXN00447,C0047,2024-03-28,31526.15,Groceries,In-Store,Completed,Pune,Silver,181301.21,5,High-Value
+TXN00448,C0024,2023-06-27,29672.27,Dining,Online,Completed,Pune,Silver,141952.51,6,High-Value
+TXN00449,C0109,2023-06-30,30331.98,Healthcare,In-Store,Completed,Bangalore,Gold,91217.91,3,Mid-Value
+TXN00450,C0093,2024-02-12,18948.1,Entertainment,In-Store,Completed,Bangalore,Gold,152416.71,6,High-Value
+TXN00451,C0196,2024-01-26,21427.12,Groceries,In-Store,Completed,Bangalore,Bronze,141374.36,5,High-Value
+TXN00452,C0117,2023-10-18,18819.83,Entertainment,Online,Completed,Mumbai,Gold,69204.98,5,Mid-Value
+TXN00453,C0129,2024-01-19,24623.54,Utilities,In-Store,Failed,Chennai,Gold,63477.88,4,Mid-Value
+TXN00454,C0105,2023-02-09,49624.38,Groceries,In-Store,Failed,Delhi,Platinum,134198.5,5,High-Value
+TXN00455,C0163,2024-12-06,18472.21,Electronics,Mobile App,Completed,Delhi,Gold,279289.67,8,High-Value
+TXN00456,C0179,2024-11-12,32302.14,Healthcare,Mobile App,Completed,Pune,Gold,116012.23,4,High-Value
+TXN00457,C0030,2023-04-05,32255.43,Utilities,In-Store,Completed,Bangalore,Silver,137365.73,8,High-Value
+TXN00458,C0110,2023-09-16,34622.66,Utilities,Mobile App,Completed,Mumbai,Gold,107398.34,3,High-Value
+TXN00459,C0163,2024-08-09,38856.89,Shopping,Online,Completed,Mumbai,Silver,279289.67,8,High-Value
+TXN00460,C0126,2023-01-02,4933.85,Utilities,Mobile App,Completed,Pune,Silver,39297.8,3,Mid-Value
+TXN00461,C0051,2024-05-13,9181.02,Groceries,In-Store,Completed,Pune,Bronze,80889.95,3,Mid-Value
+TXN00462,C0105,2024-03-27,31379.19,Groceries,Mobile App,Completed,Delhi,Gold,134198.5,5,High-Value
+TXN00464,C0055,2024-06-18,39610.15,Utilities,Mobile App,Completed,Delhi,Platinum,116798.0,3,High-Value
+TXN00465,C0087,2024-01-15,34124.81,Shopping,In-Store,Pending,Mumbai,Bronze,111619.56,5,High-Value
+TXN00467,C0180,2023-09-12,18484.65,Entertainment,Mobile App,Completed,Delhi,Gold,97866.63,3,Mid-Value
+TXN00468,C0163,2024-01-04,43684.38,Shopping,Mobile App,Completed,Mumbai,Bronze,279289.67,8,High-Value
+TXN00469,C0110,2024-05-02,49344.89,Groceries,Mobile App,Completed,Chennai,Gold,107398.34,3,High-Value
+TXN00470,C0033,2024-05-24,39861.36,Healthcare,Mobile App,Failed,Mumbai,Platinum,159079.54,5,High-Value
+TXN00471,C0170,2024-07-07,12120.99,Dining,Online,Completed,Mumbai,Silver,80459.54,5,Mid-Value
+TXN00472,C0084,2024-01-28,38338.81,Dining,Mobile App,Completed,Pune,Platinum,145986.52,4,High-Value
+TXN00473,C0024,2024-12-09,16706.78,Dining,Mobile App,Completed,Bangalore,Platinum,141952.51,6,High-Value
+TXN00474,C0060,2023-08-17,13028.79,Healthcare,Online,Completed,Mumbai,Bronze,135024.6,6,High-Value
+TXN00475,C0033,2023-11-17,47708.02,Electronics,In-Store,Completed,Delhi,Bronze,159079.54,5,High-Value
+TXN00476,C0174,2023-05-10,26035.59,Dining,Online,Completed,Delhi,Silver,233634.67,6,High-Value
+TXN00477,C0128,2024-11-27,22843.65,Healthcare,Online,Completed,Delhi,Bronze,114378.71,5,High-Value
+TXN00478,C0129,2024-12-06,6260.85,Entertainment,Mobile App,Pending,Delhi,Silver,63477.88,4,Mid-Value
+TXN00479,C0184,2023-08-04,42418.69,Dining,Mobile App,Completed,Bangalore,Bronze,80061.99,3,Mid-Value
+TXN00480,C0169,2023-06-13,49554.05,Utilities,In-Store,Completed,Mumbai,Bronze,192056.03,5,High-Value
+TXN00481,C0073,2024-12-14,46160.88,Utilities,Online,Completed,Delhi,Platinum,272644.62,8,High-Value
+TXN00482,C0168,2023-06-17,28900.15,Entertainment,Mobile App,Completed,Pune,Gold,92011.07,4,Mid-Value
+TXN00483,C0093,2024-08-12,5187.2,Travel,In-Store,Failed,Mumbai,Bronze,152416.71,6,High-Value
+TXN00484,C0122,2023-07-03,47258.65,Groceries,Mobile App,Completed,Bangalore,Silver,266176.62,9,High-Value
+TXN00485,C0009,2023-05-02,12118.69,Entertainment,In-Store,Completed,Mumbai,Platinum,50292.21,2,Mid-Value
+TXN00486,C0167,2024-01-27,13833.28,Entertainment,In-Store,Completed,Chennai,Silver,57311.75,3,Mid-Value
+TXN00487,C0006,2024-08-23,28691.8,Entertainment,In-Store,Completed,Bangalore,Bronze,124754.65,6,High-Value
+TXN00488,C0147,2023-05-09,5062.12,Groceries,Mobile App,Pending,Mumbai,Platinum,36448.47,3,Mid-Value
+TXN00489,C0143,2024-07-03,39195.38,Entertainment,Online,Completed,Mumbai,Silver,101240.51,4,High-Value
+TXN00490,C0169,2023-05-01,9115.14,Travel,Online,Completed,Pune,Silver,192056.03,5,High-Value
+TXN00491,C0023,2024-07-29,12912.35,Electronics,Online,Failed,Bangalore,Gold,125885.58,6,High-Value
+TXN00492,C0064,2023-11-04,2403.7,Healthcare,Mobile App,Completed,Delhi,Silver,133758.13,6,High-Value
+TXN00493,C0177,2023-04-12,33164.59,Electronics,Online,Completed,Pune,Silver,106713.73,4,High-Value
+TXN00494,C0152,2024-01-03,13942.05,Utilities,Online,Completed,Bangalore,Gold,59136.33,3,Mid-Value
+TXN00495,C0066,2024-11-23,21324.63,Travel,Mobile App,Completed,Pune,Bronze,60501.38,3,Mid-Value
+TXN00496,C0145,2024-11-04,32423.78,Travel,In-Store,Pending,Chennai,Silver,77448.12,2,Mid-Value
+TXN00497,C0020,2023-10-04,6318.6,Groceries,Mobile App,Completed,Delhi,Bronze,170344.54,7,High-Value
+TXN00498,C0038,2023-08-20,13754.97,Groceries,In-Store,Failed,Mumbai,Silver,13754.97,1,Low-Value
+TXN00499,C0135,2023-11-10,29482.47,Entertainment,Online,Completed,Chennai,Gold,95600.27,4,Mid-Value
+TXN00500,C0013,2023-06-24,15968.02,Utilities,Online,Completed,Chennai,Platinum,54879.84,5,Mid-Value
+TXN00501,C0123,2024-08-29,6465.85,Electronics,Mobile App,Completed,Delhi,Gold,32008.05,2,Mid-Value
+TXN00502,C0186,2024-10-16,48727.54,Dining,Mobile App,Completed,Bangalore,Bronze,169059.47,5,High-Value
+TXN00503,C0071,2024-03-14,26077.67,Dining,In-Store,Completed,Mumbai,Gold,82442.55,3,Mid-Value
+TXN00504,C0020,2023-09-03,47248.86,Travel,Mobile App,Completed,Mumbai,Platinum,170344.54,7,High-Value
+TXN00505,C0174,2024-06-04,46628.83,Travel,In-Store,Completed,Mumbai,Platinum,233634.67,6,High-Value
+TXN00506,C0004,2024-09-23,9590.18,Electronics,Mobile App,Completed,Chennai,Gold,71357.13,3,Mid-Value
+TXN00507,C0156,2024-04-04,48235.9,Dining,Online,Completed,Bangalore,Platinum,126538.09,3,High-Value
+TXN00508,C0098,2023-06-24,18726.86,Groceries,In-Store,Pending,Mumbai,Bronze,86706.69,4,Mid-Value
+TXN00509,C0077,2024-05-09,14747.9,Dining,Online,Completed,Chennai,Gold,153818.91,5,High-Value
+TXN00510,C0119,2024-09-24,42432.75,Electronics,In-Store,Completed,Delhi,Silver,168078.59,7,High-Value
+TXN00511,C0103,2023-12-30,542.3,Utilities,In-Store,Completed,Bangalore,Gold,84728.26,3,Mid-Value
+TXN00512,C0040,2024-11-03,12581.72,Entertainment,In-Store,Completed,Delhi,Gold,109586.67,5,High-Value
+TXN00513,C0113,2024-11-03,41983.94,Travel,Online,Completed,Pune,Gold,210225.51,6,High-Value
+TXN00514,C0049,2023-10-19,2108.79,Utilities,In-Store,Completed,Bangalore,Bronze,129386.22,7,High-Value
+TXN00515,C0031,2024-03-07,24504.48,Entertainment,Mobile App,Completed,Chennai,Platinum,184517.61,8,High-Value
+TXN00516,C0034,2023-04-23,47888.16,Electronics,Online,Completed,Delhi,Platinum,105806.97,4,High-Value
+TXN00517,C0153,2023-01-09,21772.99,Healthcare,In-Store,Completed,Chennai,Silver,43478.13,4,Mid-Value
+TXN00518,C0064,2023-10-15,38359.71,Healthcare,Mobile App,Completed,Mumbai,Silver,133758.13,6,High-Value
+TXN00519,C0049,2024-08-28,31482.5,Travel,Online,Completed,Pune,Platinum,129386.22,7,High-Value
+TXN00520,C0005,2024-09-23,10062.21,Electronics,In-Store,Completed,Delhi,Platinum,85826.51,3,Mid-Value
+TXN00521,C0123,2023-03-04,25542.2,Electronics,In-Store,Completed,Pune,Bronze,32008.05,2,Mid-Value
+TXN00522,C0013,2023-07-06,2140.37,Electronics,Mobile App,Completed,Mumbai,Platinum,54879.84,5,Mid-Value
+TXN00524,C0093,2024-01-06,37172.31,Shopping,Online,Completed,Pune,Gold,152416.71,6,High-Value
+TXN00525,C0011,2024-08-23,48419.68,Dining,Online,Completed,Delhi,Bronze,147078.27,4,High-Value
+TXN00527,C0094,2024-04-04,31530.25,Groceries,In-Store,Completed,Mumbai,Silver,86431.54,3,Mid-Value
+TXN00528,C0154,2023-10-08,34865.64,Travel,In-Store,Completed,Bangalore,Platinum,107042.11,3,High-Value
+TXN00529,C0176,2024-06-29,43525.76,Groceries,Online,Completed,Chennai,Bronze,76353.6,2,Mid-Value
+TXN00530,C0053,2023-07-08,279.67,Dining,Mobile App,Completed,Chennai,Bronze,84508.82,4,Mid-Value
+TXN00531,C0078,2023-08-14,14888.55,Healthcare,Mobile App,Completed,Pune,Bronze,14888.55,1,Low-Value
+TXN00532,C0035,2023-10-04,43681.8,Electronics,Mobile App,Failed,Delhi,Bronze,145454.06,5,High-Value
+TXN00533,C0084,2023-03-27,47326.75,Healthcare,Mobile App,Completed,Mumbai,Bronze,145986.52,4,High-Value
+TXN00534,C0057,2023-10-14,8919.09,Electronics,Mobile App,Completed,Bangalore,Bronze,48083.51,4,Mid-Value
+TXN00535,C0161,2024-10-11,30256.65,Dining,In-Store,Completed,Bangalore,Silver,116725.9,4,High-Value
+TXN00536,C0115,2023-08-26,36517.61,Utilities,In-Store,Completed,Pune,Silver,143465.46,5,High-Value
+TXN00537,C0146,2024-05-17,47173.42,Travel,Mobile App,Completed,Chennai,Silver,159001.53,6,High-Value
+TXN00538,C0018,2023-05-27,3695.23,Dining,In-Store,Pending,Mumbai,Gold,162930.47,7,High-Value
+TXN00539,C0097,2024-01-29,1133.72,Electronics,Mobile App,Failed,Chennai,Gold,152992.92,6,High-Value
+TXN00540,C0003,2023-04-19,27164.27,Shopping,Mobile App,Completed,Pune,Bronze,220804.35,7,High-Value
+TXN00541,C0085,2024-05-05,7810.21,Electronics,Mobile App,Completed,Mumbai,Bronze,39339.19,2,Mid-Value
+TXN00542,C0027,2024-06-07,44334.2,Utilities,Online,Completed,Delhi,Bronze,125577.63,3,High-Value
+TXN00543,C0058,2024-12-01,19298.72,Groceries,In-Store,Completed,Delhi,Gold,180101.79,6,High-Value
+TXN00544,C0158,2023-12-08,6005.71,Groceries,Online,Completed,Bangalore,Silver,111857.56,6,High-Value
+TXN00545,C0171,2024-12-04,15148.03,Healthcare,In-Store,Pending,Delhi,Gold,44135.6,3,Mid-Value
+TXN00546,C0001,2023-06-02,38911.42,Travel,In-Store,Completed,Mumbai,Gold,171435.03,5,High-Value
+TXN00547,C0148,2024-03-13,47983.31,Healthcare,Online,Completed,Delhi,Platinum,162819.51,5,High-Value
+TXN00548,C0109,2024-05-07,34701.7,Utilities,Mobile App,Completed,Pune,Platinum,91217.91,3,Mid-Value
+TXN00549,C0108,2024-07-16,24905.4,Entertainment,Mobile App,Completed,Chennai,Silver,209351.72,7,High-Value
+TXN00551,C0090,2024-01-05,42452.7,Travel,In-Store,Completed,Bangalore,Silver,110671.01,4,High-Value
+TXN00552,C0054,2023-08-18,2887.7,Travel,Online,Failed,Bangalore,Bronze,193655.03,9,High-Value
+TXN00553,C0014,2024-12-19,5389.89,Groceries,In-Store,Pending,Mumbai,Silver,53758.68,4,Mid-Value
+TXN00554,C0020,2023-01-13,28502.24,Utilities,Online,Completed,Delhi,Platinum,170344.54,7,High-Value
+TXN00555,C0106,2023-12-12,22254.28,Electronics,In-Store,Completed,Pune,Silver,103316.95,4,High-Value
+TXN00556,C0003,2024-02-10,41650.74,Entertainment,Mobile App,Completed,Pune,Platinum,220804.35,7,High-Value
+TXN00557,C0041,2023-10-06,48658.8,Utilities,Online,Completed,Chennai,Gold,89600.85,3,Mid-Value
+TXN00558,C0178,2024-04-24,23923.07,Utilities,In-Store,Completed,Mumbai,Gold,96541.92,4,Mid-Value
+TXN00559,C0020,2024-01-07,30199.19,Shopping,Online,Completed,Mumbai,Bronze,170344.54,7,High-Value
+TXN00560,C0049,2024-07-18,10166.12,Electronics,Online,Completed,Bangalore,Gold,129386.22,7,High-Value
+TXN00561,C0013,2023-11-19,4751.23,Healthcare,Online,Failed,Delhi,Platinum,54879.84,5,Mid-Value
+TXN00562,C0186,2023-12-31,48695.15,Groceries,In-Store,Completed,Pune,Gold,169059.47,5,High-Value
+TXN00563,C0151,2024-01-27,23899.96,Electronics,In-Store,Completed,Pune,Silver,62240.36,4,Mid-Value
+TXN00564,C0175,2024-10-31,7129.05,Travel,Mobile App,Completed,Delhi,Platinum,67415.61,4,Mid-Value
+TXN00565,C0034,2023-12-14,14613.0,Utilities,Online,Pending,Chennai,Gold,105806.97,4,High-Value
+TXN00566,C0040,2024-08-03,31426.7,Entertainment,Online,Pending,Mumbai,Platinum,109586.67,5,High-Value
+TXN00567,C0025,2024-04-10,15754.56,Healthcare,Online,Completed,Bangalore,Bronze,108905.59,6,High-Value
+TXN00568,C0122,2023-09-20,38181.0,Entertainment,Mobile App,Failed,Delhi,Bronze,266176.62,9,High-Value
+TXN00569,C0103,2024-02-23,42864.35,Travel,In-Store,Completed,Bangalore,Platinum,84728.26,3,Mid-Value
+TXN00570,C0068,2024-11-29,2229.51,Electronics,Mobile App,Completed,Mumbai,Bronze,81491.39,4,Mid-Value
+TXN00571,C0097,2023-06-12,28549.67,Groceries,Online,Completed,Chennai,Platinum,152992.92,6,High-Value
+TXN00572,C0028,2023-03-29,9095.64,Groceries,In-Store,Completed,Chennai,Platinum,46595.91,3,Mid-Value
+TXN00573,C0055,2024-12-20,37090.11,Groceries,In-Store,Completed,Pune,Bronze,116798.0,3,High-Value
+TXN00574,C0146,2023-02-02,49391.76,Utilities,Online,Failed,Mumbai,Silver,159001.53,6,High-Value
+TXN00575,C0006,2024-12-01,21203.73,Healthcare,Mobile App,Completed,Bangalore,Platinum,124754.65,6,High-Value
+TXN00576,C0135,2023-08-08,33515.26,Healthcare,Online,Pending,Delhi,Silver,95600.27,4,Mid-Value
+TXN00577,C0051,2023-12-24,47102.89,Entertainment,In-Store,Completed,Chennai,Platinum,80889.95,3,Mid-Value
+TXN00578,C0003,2024-07-28,39175.31,Dining,Online,Completed,Delhi,Gold,220804.35,7,High-Value
+TXN00579,C0039,2024-04-14,46697.59,Entertainment,In-Store,Completed,Mumbai,Platinum,163435.49,5,High-Value
+TXN00580,C0033,2024-10-11,22521.5,Groceries,Online,Completed,Pune,Platinum,159079.54,5,High-Value
+TXN00582,C0180,2024-05-26,32480.69,Entertainment,In-Store,Completed,Delhi,Gold,97866.63,3,Mid-Value
+TXN00583,C0046,2024-04-14,21476.34,Travel,Mobile App,Completed,Bangalore,Bronze,195325.3,9,High-Value
+TXN00584,C0180,2024-09-27,46901.29,Groceries,Online,Pending,Bangalore,Gold,97866.63,3,Mid-Value
+TXN00585,C0128,2024-09-30,46368.72,Groceries,Mobile App,Completed,Bangalore,Silver,114378.71,5,High-Value
+TXN00586,C0058,2024-04-10,27624.24,Groceries,Online,Pending,Bangalore,Platinum,180101.79,6,High-Value
+TXN00587,C0166,2024-12-21,39253.29,Utilities,Online,Failed,Delhi,Bronze,107327.05,5,High-Value
+TXN00588,C0107,2024-11-20,12153.57,Utilities,Online,Completed,Chennai,Bronze,160080.84,7,High-Value
+TXN00589,C0086,2023-06-24,47962.11,Utilities,Online,Completed,Mumbai,Platinum,86337.95,4,Mid-Value
+TXN00590,C0033,2024-10-13,19581.54,Travel,In-Store,Pending,Pune,Gold,159079.54,5,High-Value
+TXN00591,C0162,2024-08-13,39235.64,Healthcare,Mobile App,Completed,Mumbai,Silver,208342.83,6,High-Value
+TXN00592,C0008,2024-09-24,35408.04,Groceries,Mobile App,Completed,Delhi,Silver,37894.97,2,Mid-Value
+TXN00593,C0062,2024-10-30,44905.67,Healthcare,Online,Completed,Delhi,Gold,93518.66,3,Mid-Value
+TXN00594,C0071,2023-03-26,46755.3,Electronics,Mobile App,Failed,Mumbai,Gold,82442.55,3,Mid-Value
+TXN00595,C0037,2023-10-17,13173.53,Travel,Online,Completed,Mumbai,Platinum,22013.73,2,Low-Value
+TXN00596,C0006,2024-02-28,3771.44,Groceries,Online,Completed,Pune,Silver,124754.65,6,High-Value
+TXN00597,C0077,2023-01-11,45191.54,Electronics,Online,Failed,Chennai,Gold,153818.91,5,High-Value
+TXN00598,C0041,2024-06-18,37110.67,Groceries,Online,Completed,Pune,Bronze,89600.85,3,Mid-Value
+TXN00599,C0030,2023-08-11,1571.93,Travel,Online,Completed,Pune,Gold,137365.73,8,High-Value
+TXN00600,C0090,2024-12-26,27619.71,Healthcare,In-Store,Completed,Pune,Bronze,110671.01,4,High-Value
+TXN00601,C0045,2023-07-22,34384.17,Healthcare,In-Store,Completed,Pune,Platinum,164017.89,5,High-Value
+TXN00602,C0111,2024-04-01,21244.49,Healthcare,In-Store,Completed,Delhi,Gold,146336.23,5,High-Value
+TXN00603,C0116,2023-06-21,44483.54,Healthcare,Mobile App,Completed,Chennai,Bronze,53509.58,2,Mid-Value
+TXN00604,C0102,2023-01-31,5821.03,Shopping,In-Store,Completed,Delhi,Silver,6456.82,2,Low-Value
+TXN00605,C0200,2023-11-18,6202.95,Shopping,Mobile App,Completed,Pune,Gold,56739.69,4,Mid-Value
+TXN00606,C0099,2023-10-18,30129.92,Dining,Online,Completed,Mumbai,Platinum,78934.81,3,Mid-Value
+TXN00607,C0175,2024-03-21,15957.39,Shopping,Online,Completed,Bangalore,Gold,67415.61,4,Mid-Value
+TXN00608,C0032,2024-04-08,8639.87,Shopping,Mobile App,Completed,Chennai,Gold,8639.87,1,Low-Value
+TXN00609,C0119,2023-10-19,6639.8,Utilities,Online,Pending,Mumbai,Platinum,168078.59,7,High-Value
+TXN00610,C0025,2024-03-01,36190.36,Healthcare,In-Store,Completed,Chennai,Gold,108905.59,6,High-Value
+TXN00611,C0101,2023-11-02,34853.2,Entertainment,In-Store,Pending,Chennai,Gold,161989.14,4,High-Value
+TXN00612,C0008,2023-08-18,2486.93,Electronics,Online,Completed,Pune,Gold,37894.97,2,Mid-Value
+TXN00613,C0049,2024-01-13,40825.77,Electronics,Mobile App,Pending,Delhi,Gold,129386.22,7,High-Value
+TXN00614,C0068,2023-12-04,34427.29,Utilities,In-Store,Completed,Delhi,Silver,81491.39,4,Mid-Value
+TXN00615,C0193,2024-08-21,44401.14,Utilities,Mobile App,Completed,Bangalore,Bronze,101700.45,3,High-Value
+TXN00616,C0083,2024-05-09,11368.94,Healthcare,In-Store,Completed,Pune,Gold,11368.94,1,Low-Value
+TXN00617,C0020,2024-05-21,3107.32,Electronics,Mobile App,Completed,Pune,Bronze,170344.54,7,High-Value
+TXN00618,C0195,2023-11-16,35454.77,Travel,Mobile App,Completed,Bangalore,Silver,35454.77,1,Mid-Value
+TXN00619,C0200,2024-02-14,9478.88,Healthcare,In-Store,Completed,Pune,Platinum,56739.69,4,Mid-Value
+TXN00620,C0028,2023-04-23,12104.07,Entertainment,Online,Completed,Mumbai,Gold,46595.91,3,Mid-Value
+TXN00621,C0091,2024-03-17,10682.09,Utilities,Mobile App,Completed,Mumbai,Platinum,118756.43,5,High-Value
+TXN00622,C0188,2024-03-08,9777.19,Dining,In-Store,Completed,Mumbai,Gold,37035.31,3,Mid-Value
+TXN00624,C0058,2024-09-27,35005.66,Utilities,In-Store,Completed,Bangalore,Silver,180101.79,6,High-Value
+TXN00625,C0044,2023-07-28,17446.89,Healthcare,Mobile App,Completed,Chennai,Platinum,60446.29,2,Mid-Value
+TXN00626,C0190,2023-11-09,42642.94,Dining,Online,Completed,Pune,Gold,75634.29,3,Mid-Value
+TXN00627,C0171,2024-04-30,21453.34,Electronics,Online,Failed,Mumbai,Bronze,44135.6,3,Mid-Value
+TXN00628,C0122,2024-08-20,150.22,Dining,In-Store,Completed,Pune,Silver,266176.62,9,High-Value
+TXN00629,C0194,2023-05-31,38785.3,Groceries,In-Store,Pending,Chennai,Bronze,176815.68,6,High-Value
+TXN00630,C0170,2024-05-13,12751.49,Entertainment,Online,Pending,Chennai,Platinum,80459.54,5,Mid-Value
+TXN00631,C0029,2023-10-04,34320.63,Electronics,Online,Failed,Bangalore,Gold,114410.64,4,High-Value
+TXN00632,C0063,2024-08-14,37076.52,Utilities,In-Store,Completed,Mumbai,Bronze,108596.31,4,High-Value
+TXN00633,C0161,2024-11-26,27291.33,Entertainment,Mobile App,Completed,Chennai,Platinum,116725.9,4,High-Value
+TXN00634,C0071,2023-11-13,9609.58,Shopping,Mobile App,Completed,Delhi,Bronze,82442.55,3,Mid-Value
+TXN00635,C0029,2023-01-09,24996.46,Travel,In-Store,Completed,Pune,Bronze,114410.64,4,High-Value
+TXN00636,C0125,2023-10-23,3324.36,Healthcare,Online,Completed,Bangalore,Bronze,31042.52,3,Mid-Value
+TXN00637,C0002,2024-03-16,17677.55,Electronics,Online,Completed,Chennai,Silver,195546.73,7,High-Value
+TXN00638,C0023,2024-12-31,13606.38,Dining,In-Store,Completed,Delhi,Silver,125885.58,6,High-Value
+TXN00639,C0174,2024-10-14,19373.42,Utilities,Online,Pending,Bangalore,Bronze,233634.67,6,High-Value
+TXN00640,C0149,2023-05-23,34197.73,Dining,In-Store,Completed,Chennai,Platinum,87336.39,3,Mid-Value
+TXN00641,C0140,2023-07-07,18860.7,Utilities,Online,Completed,Delhi,Platinum,79336.99,4,Mid-Value
+TXN00642,C0091,2024-03-13,23380.97,Utilities,In-Store,Completed,Pune,Bronze,118756.43,5,High-Value
+TXN00643,C0063,2024-08-17,25659.12,Travel,Mobile App,Completed,Bangalore,Silver,108596.31,4,High-Value
+TXN00644,C0104,2024-11-17,397.05,Entertainment,Online,Completed,Chennai,Gold,397.05,1,Low-Value
+TXN00645,C0075,2024-08-02,24125.25,Shopping,Online,Completed,Pune,Silver,103242.43,5,High-Value
+TXN00646,C0144,2024-05-22,6906.5,Travel,In-Store,Completed,Chennai,Silver,35541.85,5,Mid-Value
+TXN00647,C0030,2023-03-10,101.78,Groceries,Mobile App,Completed,Bangalore,Platinum,137365.73,8,High-Value
+TXN00648,C0015,2023-05-05,15066.2,Entertainment,Online,Pending,Bangalore,Gold,15066.2,1,Low-Value
+TXN00649,C0111,2023-05-30,31846.24,Travel,Online,Pending,Chennai,Silver,146336.23,5,High-Value
+TXN00650,C0122,2024-05-06,14572.81,Groceries,Mobile App,Completed,Mumbai,Platinum,266176.62,9,High-Value
+TXN00651,C0107,2024-03-11,7493.51,Healthcare,In-Store,Completed,Chennai,Platinum,160080.84,7,High-Value
+TXN00653,C0090,2024-12-24,26300.28,Groceries,Online,Completed,Pune,Bronze,110671.01,4,High-Value
+TXN00654,C0196,2024-11-05,15216.2,Utilities,Online,Pending,Pune,Bronze,141374.36,5,High-Value
+TXN00655,C0034,2024-12-15,16271.42,Shopping,Mobile App,Completed,Pune,Silver,105806.97,4,High-Value
+TXN00656,C0025,2024-11-12,5400.4,Entertainment,In-Store,Completed,Pune,Gold,108905.59,6,High-Value
+TXN00657,C0045,2024-01-29,37815.11,Utilities,Online,Completed,Bangalore,Bronze,164017.89,5,High-Value
+TXN00658,C0156,2024-10-08,42049.9,Travel,In-Store,Completed,Chennai,Silver,126538.09,3,High-Value
+TXN00659,C0051,2023-09-16,24606.04,Healthcare,Online,Completed,Pune,Gold,80889.95,3,Mid-Value
+TXN00661,C0088,2023-07-09,34149.82,Entertainment,Online,Pending,Chennai,Silver,84686.93,3,Mid-Value
+TXN00662,C0018,2024-03-25,21432.84,Utilities,Online,Completed,Bangalore,Silver,162930.47,7,High-Value
+TXN00663,C0014,2024-09-07,27072.85,Electronics,Online,Pending,Delhi,Gold,53758.68,4,Mid-Value
+TXN00664,C0041,2023-10-22,3831.38,Dining,Mobile App,Failed,Mumbai,Platinum,89600.85,3,Mid-Value
+TXN00665,C0068,2024-10-30,1595.9,Shopping,In-Store,Completed,Chennai,Bronze,81491.39,4,Mid-Value
+TXN00666,C0194,2024-11-10,45624.75,Electronics,Online,Completed,Mumbai,Bronze,176815.68,6,High-Value
+TXN00667,C0019,2024-03-02,29947.57,Groceries,Mobile App,Completed,Bangalore,Silver,105342.83,3,High-Value
+TXN00668,C0167,2023-12-25,21632.63,Healthcare,Online,Completed,Chennai,Platinum,57311.75,3,Mid-Value
+TXN00669,C0175,2024-12-01,36922.39,Entertainment,Online,Completed,Chennai,Silver,67415.61,4,Mid-Value
+TXN00670,C0030,2024-03-24,5987.83,Shopping,In-Store,Completed,Chennai,Gold,137365.73,8,High-Value
+TXN00671,C0059,2024-02-27,37399.04,Electronics,Online,Pending,Bangalore,Silver,76897.86,2,Mid-Value
+TXN00672,C0073,2023-02-14,15774.88,Dining,In-Store,Completed,Mumbai,Bronze,272644.62,8,High-Value
+TXN00673,C0140,2023-07-30,24796.97,Shopping,Online,Completed,Pune,Bronze,79336.99,4,Mid-Value
+TXN00674,C0082,2024-12-15,27116.82,Groceries,Online,Completed,Mumbai,Silver,61233.23,4,Mid-Value
+TXN00675,C0036,2024-06-17,11603.74,Dining,Online,Completed,Bangalore,Platinum,30476.57,2,Mid-Value
+TXN00676,C0030,2023-01-22,24995.48,Electronics,In-Store,Completed,Delhi,Platinum,137365.73,8,High-Value
+TXN00677,C0127,2023-01-20,43152.36,Utilities,In-Store,Completed,Mumbai,Bronze,118982.2,4,High-Value
+TXN00678,C0009,2024-07-08,38173.52,Electronics,Mobile App,Completed,Chennai,Silver,50292.21,2,Mid-Value
+TXN00679,C0194,2023-01-29,17113.12,Utilities,In-Store,Completed,Chennai,Platinum,176815.68,6,High-Value
+TXN00680,C0185,2024-11-25,14442.18,Entertainment,In-Store,Completed,Bangalore,Platinum,45169.36,3,Mid-Value
+TXN00681,C0191,2023-09-01,6680.45,Electronics,In-Store,Completed,Chennai,Bronze,56093.8,2,Mid-Value
+TXN00682,C0087,2024-08-07,19790.6,Healthcare,In-Store,Completed,Mumbai,Gold,111619.56,5,High-Value
+TXN00684,C0164,2024-07-23,10970.34,Electronics,Mobile App,Failed,Mumbai,Platinum,41969.23,3,Mid-Value
+TXN00685,C0047,2023-09-22,38322.24,Healthcare,In-Store,Pending,Chennai,Gold,181301.21,5,High-Value
+TXN00686,C0060,2023-04-28,32764.58,Travel,Mobile App,Completed,Pune,Gold,135024.6,6,High-Value
+TXN00687,C0183,2023-09-23,48766.59,Electronics,Mobile App,Pending,Pune,Bronze,75140.44,3,Mid-Value
+TXN00688,C0028,2023-03-21,25396.2,Groceries,Mobile App,Completed,Bangalore,Gold,46595.91,3,Mid-Value
+TXN00689,C0165,2024-03-12,43805.07,Travel,Online,Completed,Delhi,Platinum,84859.28,3,Mid-Value
+TXN00690,C0076,2024-09-28,1654.75,Shopping,Online,Completed,Pune,Bronze,23715.91,3,Low-Value
+TXN00691,C0131,2024-06-04,39195.01,Shopping,Online,Completed,Mumbai,Gold,94160.44,3,Mid-Value
+TXN00692,C0058,2024-08-01,25224.44,Utilities,Mobile App,Completed,Bangalore,Platinum,180101.79,6,High-Value
+TXN00693,C0082,2023-10-03,9831.68,Healthcare,Online,Completed,Delhi,Gold,61233.23,4,Mid-Value
+TXN00694,C0178,2023-09-04,22305.87,Utilities,In-Store,Completed,Bangalore,Silver,96541.92,4,Mid-Value
+TXN00695,C0115,2024-03-04,11565.19,Travel,Mobile App,Completed,Chennai,Bronze,143465.46,5,High-Value
+TXN00696,C0074,2023-12-16,15760.83,Groceries,In-Store,Completed,Pune,Silver,57504.26,4,Mid-Value
+TXN00697,C0117,2023-01-16,8421.87,Utilities,In-Store,Completed,Mumbai,Platinum,69204.98,5,Mid-Value
+TXN00698,C0007,2024-12-07,8430.09,Groceries,Online,Completed,Pune,Platinum,44706.87,3,Mid-Value
+TXN00699,C0179,2024-07-24,12147.6,Healthcare,Online,Completed,Mumbai,Gold,116012.23,4,High-Value
+TXN00700,C0019,2023-12-30,47500.96,Utilities,Mobile App,Completed,Pune,Silver,105342.83,3,High-Value
+TXN00701,C0186,2024-08-26,45825.46,Groceries,Online,Pending,Bangalore,Bronze,169059.47,5,High-Value
+TXN00702,C0113,2023-06-30,25482.49,Healthcare,Online,Completed,Chennai,Platinum,210225.51,6,High-Value
+TXN00703,C0074,2023-11-27,19264.98,Travel,Online,Completed,Bangalore,Bronze,57504.26,4,Mid-Value
+TXN00704,C0148,2024-09-22,15786.93,Shopping,In-Store,Completed,Pune,Bronze,162819.51,5,High-Value
+TXN00705,C0067,2024-09-12,37698.09,Dining,Mobile App,Completed,Pune,Gold,84170.77,3,Mid-Value
+TXN00706,C0154,2023-02-10,47996.85,Dining,Online,Completed,Chennai,Platinum,107042.11,3,High-Value
+TXN00707,C0188,2024-03-31,26092.61,Entertainment,In-Store,Pending,Bangalore,Platinum,37035.31,3,Mid-Value
+TXN00708,C0068,2023-03-30,43238.69,Healthcare,Mobile App,Completed,Pune,Gold,81491.39,4,Mid-Value
+TXN00709,C0084,2023-06-10,25402.3,Healthcare,In-Store,Completed,Delhi,Gold,145986.52,4,High-Value
+TXN00710,C0111,2023-04-13,46625.16,Shopping,Online,Pending,Mumbai,Silver,146336.23,5,High-Value
+TXN00711,C0036,2024-08-23,18872.83,Dining,Mobile App,Completed,Bangalore,Bronze,30476.57,2,Mid-Value
+TXN00713,C0182,2023-07-02,2036.76,Healthcare,Mobile App,Completed,Pune,Bronze,78457.69,4,Mid-Value
+TXN00714,C0060,2023-10-27,33431.99,Entertainment,Mobile App,Completed,Mumbai,Bronze,135024.6,6,High-Value
+TXN00715,C0108,2024-04-02,16337.31,Utilities,Online,Completed,Bangalore,Silver,209351.72,7,High-Value
+TXN00716,C0199,2024-05-10,42022.03,Entertainment,Mobile App,Completed,Bangalore,Gold,42022.03,1,Mid-Value
+TXN00717,C0144,2023-11-27,13154.1,Shopping,In-Store,Completed,Delhi,Platinum,35541.85,5,Mid-Value
+TXN00718,C0187,2023-08-13,17058.09,Electronics,In-Store,Completed,Mumbai,Bronze,134810.97,4,High-Value
+TXN00719,C0034,2024-09-11,27034.39,Electronics,In-Store,Completed,Chennai,Gold,105806.97,4,High-Value
+TXN00720,C0168,2023-02-20,25980.59,Shopping,Mobile App,Completed,Pune,Bronze,92011.07,4,Mid-Value
+TXN00721,C0042,2024-01-18,16641.96,Dining,Mobile App,Completed,Chennai,Gold,99257.21,6,Mid-Value
+TXN00723,C0192,2023-05-07,40668.49,Utilities,Mobile App,Completed,Mumbai,Gold,89991.39,4,Mid-Value
+TXN00724,C0130,2024-12-21,38143.06,Utilities,Online,Completed,Chennai,Platinum,38143.06,1,Mid-Value
+TXN00726,C0097,2023-10-26,21533.78,Dining,In-Store,Completed,Pune,Platinum,152992.92,6,High-Value
+TXN00727,C0005,2024-05-23,36405.12,Shopping,Mobile App,Completed,Pune,Platinum,85826.51,3,Mid-Value
+TXN00728,C0095,2024-05-03,28201.35,Healthcare,In-Store,Completed,Pune,Platinum,97565.22,4,Mid-Value
+TXN00729,C0152,2023-09-13,4286.05,Utilities,Mobile App,Pending,Mumbai,Platinum,59136.33,3,Mid-Value
+TXN00730,C0065,2024-02-26,15641.6,Shopping,Online,Completed,Delhi,Silver,120643.34,5,High-Value
+TXN00731,C0194,2024-07-29,39755.32,Entertainment,In-Store,Failed,Chennai,Gold,176815.68,6,High-Value
+TXN00732,C0027,2024-03-11,34992.85,Utilities,Online,Completed,Bangalore,Gold,125577.63,3,High-Value
+TXN00733,C0010,2024-03-10,24809.71,Entertainment,Online,Completed,Bangalore,Bronze,30611.48,4,Mid-Value
+TXN00734,C0185,2024-11-23,13628.27,Shopping,Mobile App,Pending,Pune,Bronze,45169.36,3,Mid-Value
+TXN00735,C0133,2024-09-11,12636.84,Entertainment,Online,Failed,Pune,Silver,49509.42,2,Mid-Value
+TXN00736,C0135,2024-04-30,590.08,Utilities,Online,Completed,Pune,Silver,95600.27,4,Mid-Value
+TXN00737,C0178,2023-04-07,26932.8,Shopping,Online,Completed,Chennai,Silver,96541.92,4,Mid-Value
+TXN00738,C0089,2024-10-05,805.06,Dining,In-Store,Completed,Delhi,Platinum,19513.52,2,Low-Value
+TXN00739,C0066,2024-07-28,27096.75,Dining,Online,Completed,Chennai,Gold,60501.38,3,Mid-Value
+TXN00740,C0033,2024-06-18,29407.12,Utilities,In-Store,Completed,Chennai,Platinum,159079.54,5,High-Value
+TXN00741,C0054,2023-06-22,233.27,Dining,Online,Completed,Mumbai,Bronze,193655.03,9,High-Value
+TXN00742,C0020,2023-02-23,6935.05,Entertainment,In-Store,Completed,Chennai,Platinum,170344.54,7,High-Value
+TXN00743,C0097,2024-01-30,35341.61,Shopping,In-Store,Pending,Pune,Silver,152992.92,6,High-Value
+TXN00744,C0163,2023-10-12,35596.25,Utilities,Mobile App,Completed,Bangalore,Bronze,279289.67,8,High-Value
+TXN00745,C0046,2023-01-26,43320.31,Entertainment,Mobile App,Completed,Pune,Platinum,195325.3,9,High-Value
+TXN00747,C0065,2024-05-29,46086.04,Healthcare,Online,Completed,Delhi,Bronze,120643.34,5,High-Value
+TXN00748,C0161,2023-02-28,48559.92,Electronics,Mobile App,Failed,Bangalore,Gold,116725.9,4,High-Value
+TXN00749,C0010,2024-01-14,1538.96,Travel,Mobile App,Completed,Mumbai,Gold,30611.48,4,Mid-Value
+TXN00750,C0114,2024-10-14,35558.48,Shopping,Online,Pending,Mumbai,Bronze,85000.53,2,Mid-Value
+TXN00752,C0017,2023-07-17,41269.87,Travel,Mobile App,Completed,Chennai,Platinum,110130.07,4,High-Value
+TXN00753,C0045,2024-10-12,37366.74,Electronics,In-Store,Completed,Mumbai,Platinum,164017.89,5,High-Value
+TXN00754,C0023,2023-04-30,45908.75,Travel,Mobile App,Completed,Pune,Gold,125885.58,6,High-Value
+TXN00755,C0056,2024-10-15,18789.02,Groceries,Mobile App,Failed,Pune,Silver,169967.01,6,High-Value
+TXN00756,C0080,2023-02-24,19027.59,Healthcare,Online,Completed,Delhi,Silver,40876.41,2,Mid-Value
+TXN00757,C0046,2023-10-30,13041.77,Entertainment,In-Store,Completed,Chennai,Platinum,195325.3,9,High-Value
+TXN00758,C0162,2024-12-04,41603.35,Electronics,Mobile App,Completed,Delhi,Bronze,208342.83,6,High-Value
+TXN00759,C0054,2023-12-17,35012.73,Healthcare,Online,Completed,Mumbai,Silver,193655.03,9,High-Value
+TXN00760,C0122,2023-05-24,23415.62,Shopping,In-Store,Completed,Mumbai,Bronze,266176.62,9,High-Value
+TXN00761,C0003,2023-06-12,21128.25,Shopping,In-Store,Completed,Bangalore,Silver,220804.35,7,High-Value
+TXN00762,C0193,2023-01-23,22006.53,Entertainment,Mobile App,Completed,Delhi,Bronze,101700.45,3,High-Value
+TXN00763,C0154,2023-12-12,24179.62,Utilities,In-Store,Completed,Chennai,Gold,107042.11,3,High-Value
+TXN00764,C0108,2024-03-12,38726.22,Utilities,Mobile App,Completed,Chennai,Silver,209351.72,7,High-Value
+TXN00765,C0146,2023-05-23,6581.55,Shopping,Online,Failed,Bangalore,Platinum,159001.53,6,High-Value
+TXN00766,C0043,2024-04-16,142.08,Travel,Online,Pending,Pune,Platinum,70663.96,4,Mid-Value
+TXN00767,C0024,2023-09-08,7791.48,Shopping,Online,Completed,Pune,Platinum,141952.51,6,High-Value
+TXN00768,C0172,2024-01-21,41584.21,Dining,Online,Completed,Delhi,Bronze,75229.28,2,Mid-Value
+TXN00769,C0173,2024-03-10,29887.25,Groceries,In-Store,Completed,Chennai,Silver,56151.04,3,Mid-Value
+TXN00770,C0197,2023-08-29,18519.72,Shopping,Mobile App,Pending,Pune,Silver,35554.93,3,Mid-Value
+TXN00771,C0128,2023-07-12,2307.97,Healthcare,In-Store,Completed,Delhi,Platinum,114378.71,5,High-Value
+TXN00772,C0173,2024-05-07,1837.85,Utilities,Online,Completed,Mumbai,Bronze,56151.04,3,Mid-Value
+TXN00773,C0176,2023-04-14,32827.84,Utilities,Online,Completed,Mumbai,Platinum,76353.6,2,Mid-Value
+TXN00774,C0168,2024-11-17,20145.0,Electronics,In-Store,Completed,Bangalore,Bronze,92011.07,4,Mid-Value
+TXN00775,C0200,2024-04-29,35629.97,Shopping,Online,Completed,Mumbai,Silver,56739.69,4,Mid-Value
+TXN00776,C0002,2023-12-12,47415.24,Healthcare,Online,Completed,Bangalore,Bronze,195546.73,7,High-Value
+TXN00777,C0011,2023-05-05,43408.05,Entertainment,In-Store,Completed,Delhi,Gold,147078.27,4,High-Value
+TXN00778,C0139,2023-10-01,9018.54,Shopping,In-Store,Completed,Delhi,Gold,91899.49,4,Mid-Value
+TXN00779,C0137,2024-02-10,12506.47,Groceries,Mobile App,Completed,Delhi,Bronze,109453.98,4,High-Value
+TXN00780,C0118,2024-12-06,30900.33,Entertainment,Online,Completed,Mumbai,Platinum,55314.9,3,Mid-Value
+TXN00781,C0132,2023-03-22,16954.86,Healthcare,In-Store,Completed,Mumbai,Platinum,63956.42,2,Mid-Value
+TXN00782,C0030,2023-07-16,28587.67,Healthcare,Mobile App,Completed,Delhi,Platinum,137365.73,8,High-Value
+TXN00784,C0002,2024-02-21,10436.1,Utilities,Mobile App,Completed,Delhi,Gold,195546.73,7,High-Value
+TXN00785,C0057,2023-08-19,1001.84,Shopping,Online,Completed,Chennai,Platinum,48083.51,4,Mid-Value
+TXN00787,C0119,2024-05-25,10610.81,Travel,Mobile App,Completed,Mumbai,Platinum,168078.59,7,High-Value
+TXN00788,C0144,2023-12-20,4246.29,Shopping,In-Store,Completed,Chennai,Silver,35541.85,5,Mid-Value
+TXN00789,C0160,2023-12-27,28288.13,Utilities,Online,Completed,Bangalore,Silver,28288.13,1,Low-Value
+TXN00790,C0097,2024-09-13,47446.07,Groceries,Online,Completed,Pune,Platinum,152992.92,6,High-Value
+TXN00791,C0141,2024-02-23,17666.03,Dining,In-Store,Pending,Delhi,Platinum,38950.47,4,Mid-Value
+TXN00792,C0058,2024-02-18,24792.18,Entertainment,In-Store,Pending,Delhi,Gold,180101.79,6,High-Value
+TXN00793,C0137,2023-12-09,38170.45,Travel,Mobile App,Pending,Bangalore,Silver,109453.98,4,High-Value
+TXN00794,C0163,2023-01-30,30981.91,Travel,Mobile App,Completed,Mumbai,Bronze,279289.67,8,High-Value
+TXN00795,C0157,2023-09-13,8406.3,Entertainment,Mobile App,Completed,Bangalore,Silver,142588.04,6,High-Value
+TXN00796,C0042,2024-04-13,18516.31,Dining,Online,Completed,Mumbai,Gold,99257.21,6,Mid-Value
+TXN00797,C0053,2024-08-14,23112.86,Dining,Mobile App,Completed,Chennai,Gold,84508.82,4,Mid-Value
+TXN00799,C0099,2023-03-14,39173.83,Healthcare,Mobile App,Completed,Mumbai,Platinum,78934.81,3,Mid-Value
+TXN00800,C0124,2023-03-03,14718.86,Utilities,Mobile App,Completed,Bangalore,Platinum,76497.81,4,Mid-Value
