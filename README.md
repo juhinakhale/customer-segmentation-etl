@@ -1,5 +1,3 @@
-# customer-segmentation-etl
-Customer segmentation and ETL automation project using Python, SQL concepts, Excel, and Power BI for transaction analysis and business intelligence reporting.
 # Customer Segmentation & ETL Automation
 
 ![Python](https://img.shields.io/badge/Python-ETL-blue)
