@@ -95,11 +95,9 @@ customer-segmentation-etl/
 ### Customer Segmentation Dashboard
 ![Segmentation Dashboard](dashboard/screenshots/segmentation_dashboard.png)
 
-### Transaction Analysis Dashboard
-![Transaction Dashboard](dashboard/screenshots/transaction_dashboard.png)
+### Revenue Transaction Analysis Dashboard
+![Revenue_transaction Dashboard](revenue_transaction_dashboard.png)
 
-### Revenue Insights Dashboard
-![Revenue Dashboard](dashboard/screenshots/revenue_dashboard.png)
 
 ---
 
