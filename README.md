@@ -11,6 +11,8 @@
 
 This project focuses on automated ETL workflows and customer segmentation using Python-generated transactional datasets and Power BI dashboards.
 
+The project simulates a real-world business intelligence workflow involving data extraction, transformation, customer segmentation, and dashboard reporting.
+
 The solution helps businesses analyze:
 - Customer spending behavior
 - Transaction patterns
